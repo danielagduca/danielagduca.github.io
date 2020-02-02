@@ -27,6 +27,9 @@ github:
 show_downloads: false
 google_analytics:
 
+collections:
+  paintings:
+
 author:
   name: "Daniela Duca"
   avatar: "/docs/images/DD.jpg"
