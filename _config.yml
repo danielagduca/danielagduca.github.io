@@ -22,6 +22,7 @@ teaser: /paintings/WarningAmorisSuspended_30x60_2016_2.jpg
 github:
   is_project_page: true
   repository_url: https://github.com/danielagduca/danielagduca.github.io
+  baseurl: https://danielagduca.github.io
 
 show_downloads: false
 google_analytics:
