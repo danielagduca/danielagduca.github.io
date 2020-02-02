@@ -29,6 +29,7 @@ google_analytics:
 
 collections:
   paintings:
+    output: true
 
 author:
   name: "Daniela Duca"
