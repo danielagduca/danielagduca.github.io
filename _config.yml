@@ -30,6 +30,13 @@ google_analytics:
 collections:
   paintings:
     output: true
+    
+defaults:
+  - scope:
+      path: ""
+      type: "paintings"
+    values:
+      layout: "author"
 
 author:
   name: "Daniela Duca"
