@@ -18,6 +18,12 @@ title: acrazyyellowtheory
 description: portfolio
 teaser: /paintings/WarningAmorisSuspended_30x60_2016_2.jpg
 
+github:
+  repository_url: https://github.com/danielagduca
+
+show_downloads: false
+google_analytics:
+
 author:
   name: "Daniela Duca"
   avatar: "/docs/images/DD.jpg"
