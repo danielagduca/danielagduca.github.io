@@ -8,7 +8,7 @@ title: Portfolio
 <ul>
   {% for painting in site.paintings %}
     <li>
-      <h2>{{ painting.short_name }}, {{ painting.year }}</h2>
+      <h2><a href="{{ author.url }}">{{ painting.short_name }}</a>, {{ painting.year }}</h2>
       <p>{{ author.content | markdownify }}</p>
     </li>
   {% endfor %}
