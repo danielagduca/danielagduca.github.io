@@ -2,8 +2,6 @@
 {% include image-gallery.html folder="/paintings" %}
 
 
- <script type="text/javascript" src="/assets/js/lightbox.js"></script>
-   <link rel="stylesheet" href="/assets/css/lightbox.css">
 
 <!--
 # Yellow
