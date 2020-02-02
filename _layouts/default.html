@@ -26,8 +26,8 @@
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
       {% if site.github.is_project_page %}
-        <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
-        <a href="https://medium.com/@danielagduca" class="btn">Medium</a>
+        <a href="{{ project_page.url }}" class="btn">Home</a>
+        <a href="https://medium.com/@danielagduca" class="btn">Blogs</a>
        <a href="{{ site.github.repository_url }}tree/master/paintings" class="btn">Paintings</a>
       {% endif %}
       {% if site.show_downloads %}
