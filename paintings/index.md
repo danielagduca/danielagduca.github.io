@@ -1,7 +1,7 @@
 # Portfolio
 {% include image-gallery.html folder="/paintings" %}
 
-...
+
  <script type="text/javascript" src="/js/lightbox.js"></script>
    <link rel="stylesheet" href="/css/lightbox.css">
 
