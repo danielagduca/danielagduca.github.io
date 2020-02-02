@@ -1,7 +1,7 @@
 ---
 short_name: love
 year: 2016
-color: yellow
+colors: yellow
 ---
 
 The yellow crazy theory original series of love. 
