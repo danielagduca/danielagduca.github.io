@@ -25,7 +25,7 @@ github:
   baseurl: https://danielagduca.github.io
 
 show_downloads: false
-google_analytics:
+google_analytics: UA-153502749-2
 
 collections:
   paintings:
