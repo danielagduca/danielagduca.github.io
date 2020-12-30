@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 remote_theme: "mmistakes/minimal-mistakes@4.21.0"
-=======
-remote_theme: "mmistakes/so-simple-theme@3.2.0"
->>>>>>> 5239cefb5fe0996538c1cfb515b64ea5202992dd
 plugins:
   - jekyll-relative-links
   - jekyll-seo-tag
