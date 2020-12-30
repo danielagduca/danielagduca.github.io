@@ -1,10 +1,23 @@
 ---
+title: "A crazy yellow theory original series: love"
 short_name: love
 year: 2016
 colors: yellow
+tags:
+ - gallery
+ - yellow
+ - acrylic
+ - art
+gallery:
+  - url: /paintings/love/Danger_of_passion_20x20cm_2016.jpg
+    image_path: /paintings/love/Danger_of_passion_20x20cm_2016.jpg
+    alt: "Danger of Passion"
+    title: "Danger of Passion, 20x20cm, 2016"
 ---
 
 The yellow crazy theory original series of love. 
+
+{% include gallery caption="The original series, exhibited at Lacey Contemporary Art Gallery on 15-16 July 2016." %}
 
 Yellow is normally considered the colour of energy and positives. It is the colour of the sun, of light. The colour of a happy face. No wonder the social media’s most popular emojis are yellow.
 
@@ -29,4 +42,4 @@ I have a confession. I watch romantic comedies while I paint. I’ll write in an
 
 sensational aspects. This is nothing new. But would it not be great if we had some danger signs in our romantic journeys? And I took it upon me to make the signs.
 
-I present to you, the collection of paintings that will be exhibited in my first solo gallery combining the theme of yellow and our love journeys in a crazy yellow theory. If you would like to buy any of these, please reach out.
+I present to you, the collection of paintings that were exhibited in my first solo gallery combining the theme of yellow and our love journeys in a crazy yellow theory. If you would like to buy any of these, please reach out.

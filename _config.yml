@@ -1,7 +1,8 @@
-theme: jekyll-theme-cayman
+remote_theme: "mmistakes/minimal-mistakes@4.21.0"
 plugins:
   - jekyll-relative-links
   - jekyll-seo-tag
+  - jekyll-include-cache
 relative_links:
   enabled: true
   collections: true
