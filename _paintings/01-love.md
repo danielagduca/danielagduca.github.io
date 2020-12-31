@@ -9,21 +9,41 @@ tags:
  - art
  - love
 header:
-  image: /docs/paintings/love/danger_of_passion_20x20cm2016.jpg
-  teaser: /docs/paintings/love/danger_of_passion_20x20cm2016.jpg
+  image: /docs/paintings/love/warning_amoris_suspended_30x60cm2016.jpg
+  teaser: /docs/paintings/love/warning_amoris_suspended_30x60cm2016.jpg
 gallery:
   - url: /docs/paintings/love/danger_of_passion_20x20cm2016.jpg
     image_path: /docs/paintings/love/danger_of_passion_20x20cm2016.jpg
     alt: "Danger of Passion"
     title: "Danger of Passion, 20x20cm, 2016"
-  - url: /docs/paintings/love/warning_amoris_suspended_30x602016.jpg
-    image_path: /docs/paintings/love/warning_amoris_suspended_30x602016.jpg
+  - url: /docs/paintings/love/warning_amoris_suspended_30x60cm2016.jpg
+    image_path: /docs/paintings/love/warning_amoris_suspended_30x60cm2016.jpg
     alt: "Warning Amoris Suspended"
     title: "Warning Amoris Suspended, 30x60cm, 2016"
   - url: /docs/paintings/love/danger_high_voltage_love_25x25cm2016.jpg
     image_path: /docs/paintings/love/danger_high_voltage_love_25x25cm2016.jpg
     alt: "Danger! High Voltage Love"
     title: "Danger! High Voltage Love, 25x25cm, 2016"  
+  - url: /docs/paintings/love/blind_spot_50x100cm2016.jpg
+    image_path: /docs/paintings/love/blind_spot_50x100cm2016.jpg
+    alt: "Blind spot"
+    title: "Blind spot, 50x100cm, 2016"
+  - url: /docs/paintings/love/detour_20x20cm2016.jpg
+    image_path: /docs/paintings/love/detour_20x20cm2016.jpg
+    alt: "DETOUR"
+    title: "DETOUR, 20x20cm, 2016"
+  - url: /docs/paintings/love/emergency_access_only_50x60cm2016.jpg
+    image_path: /docs/paintings/love/emergency_access_only_50x60cm2016.jpg
+    alt: "EMERGENCY ACCESS ONLY"
+    title: "EMERGENCY ACCESS ONLY, 50x60cm, 2016" 
+  - url: /docs/paintings/love/major_love_ahead_25x25cm2016.jpg
+    image_path: /docs/paintings/love/major_love_ahead_25x25cm2016.jpg
+    alt: "Major Love Ahead"
+    title: "Major Love Ahead, 25x25cm, 2016" 
+  - url: /docs/paintings/love/upside_down_affection_40x120cm2016.jpg
+    image_path: /docs/paintings/love/upside_down_affection_40x120cm2016.jpg
+    alt: "Upside down affection"
+    title: "Upside down affection, 40x120cm, 2016"   
 ---
 
 The yellow crazy theory original series of love. 
