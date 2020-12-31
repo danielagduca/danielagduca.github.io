@@ -9,15 +9,15 @@ tags:
  - art
  - love
 header:
-  image: /docs/paintings/love/Danger_of_passion_20x20cm_2016.jpg
-  teaser: /docs/paintings/love/Danger_of_passion_20x20cm_2016.jpg
+  image: /docs/paintings/love/danger_of_passion_20x20cm_2016.jpg
+  teaser: /docs/paintings/love/danger_of_passion_20x20cm_2016.jpg
 gallery:
-  - url: /docs/paintings/love/Danger_of_passion_20x20cm_2016.jpg
-    image_path: /paintings/love/Danger_of_passion_20x20cm_2016.jpg
+  - url: /docs/paintings/love/danger_of_passion_20x20cm_2016.jpg
+    image_path: /paintings/love/danger_of_passion_20x20cm_2016.jpg
     alt: "Danger of Passion"
     title: "Danger of Passion, 20x20cm, 2016"
-  - url: /docs/paintings/love/WarningAmorisSuspended_30x60_2016_2.jpg
-    image_path: /docs/paintings/love/WarningAmorisSuspended_30x60_2016_2.jpg
+  - url: /docs/paintings/love/warning_amoris_suspended_30x60_2016.jpg
+    image_path: /docs/paintings/love/warning_amoris_suspended_30x60_2016.jpg
     alt: "Warning Amoris Suspended"
     title: "Warning Amoris Suspended, 30x60cm, 2016"
 ---
