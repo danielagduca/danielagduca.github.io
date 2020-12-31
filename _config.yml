@@ -118,7 +118,14 @@ defaults:
       author_profile: true
       share: true
       related: true
-      permalink: /paintings/:short_name/
+
+
+# Setting up the paintings collection
+collections:
+  paintings:
+    output: true
+    permalink: /:collection/:path/
+
 
 # Author
 author:
