@@ -1,5 +1,5 @@
 ---
-title: "A crazy yellow theory original series: love"
+title: "A crazy yellow theory original series, 2016"
 short_name: love
 year: 2016
 colors: yellow
