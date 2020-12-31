@@ -131,7 +131,7 @@ collections:
 # Author
 author:
   name: "Daniela Duca"
-  avatar: "/docs/DDheadshot.jpg"
+  avatar: /docs/DDheadshot.jpg
   bio: "PhD, Product Manager, Artist" 
 links:
     #- label: "Email"
