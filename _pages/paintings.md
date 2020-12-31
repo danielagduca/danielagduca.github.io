@@ -1,5 +1,5 @@
 ---
-title: Paingings
+title: Paintings
 layout: collection
 permalink: /paintings/
 collection: paintings
