@@ -11,7 +11,6 @@ tags:
 header:
   image: /docs/paintings/love/Danger_of_passion_20x20cm_2016.jpg
   teaser: /docs/paintings/love/Danger_of_passion_20x20cm_2016.jpg
-
 gallery:
   - url: /docs/paintings/love/Danger_of_passion_20x20cm_2016.jpg
     image_path: /paintings/love/Danger_of_passion_20x20cm_2016.jpg

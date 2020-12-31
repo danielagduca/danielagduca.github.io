@@ -12,7 +12,6 @@ tags:
 header:
   image: /docs/paintings/figurative/AmedeosWomen_30x80cm_2018.jpg
   teaser: /docs/paintings/figurative/AmedeosWomen_30x80cm_2018.jpg
-
 gallery:
   - url: /docs/paintings/figurative/AmedeosWomen_30x80cm_2018.jpg
     image_path: /paintings/love/AmedeosWomen_30x80cm_2018.jpg

@@ -1,6 +1,7 @@
 ---
-title: "Figurative paintings, 2016-2019"
+title: "Trees and nature, 2015-2018"
 short_name: trees
+excerpt: "A collection of trees and nature, including the most loved Fools' garden lemon tree"
 year: 2015
 tags:
  - yellow
@@ -9,11 +10,18 @@ tags:
  - tree
  - nature
 header:
-  image: /docs/paintings/trees/AmedeosWomen_30x80cm_2018.jpg
-  teaser: /docs/paintings/trees/AmedeosWomen_30x80cm_2018.jpg
+  image: /docs/paintings/trees/tree_of_life_25x30cm_2015.jpg
+  teaser: /docs/paintings/trees/tree_of_life_25x30cm_2015.jpg
+gallery:
+  - url: /docs/paintings/trees/tree_of_life_25x30cm_2015.jpg
+    image_path: /paintings/love/tree_of_life_25x30cm_2015.jpg
+    alt: "Tree of Life"
+    title: "Tree of Life, 25x30cm, 2015"
 ---
 
 The series of trees was born out of an experiment with color and paste. It is an extension of my crazy yellow theory.
+
+{% include gallery caption="Trees, paintings from as early as 2015" %}
 
 I first painted the tree of life. I remember, when I was young my mom had this very interesting plant. It had very brown core and very succulent and green leaves. I never saw it flowering. But my mom used to say that it is called The Tree of Life. I was confused. It wasn’t a tree and it definitely didn’t seem to show life (I thought flowers were representing the continuity of life).
 
