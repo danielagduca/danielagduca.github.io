@@ -2,7 +2,6 @@
 title: "A crazy yellow theory original series, 2016"
 short_name: love
 year: 2016
-colors: yellow
 tags:
  - gallery
  - yellow
@@ -10,6 +9,7 @@ tags:
  - art
  - love
 header:
+  image: /docs/paintings/love/Danger_of_passion_20x20cm_2016.jpg
   teaser: /docs/paintings/love/Danger_of_passion_20x20cm_2016.jpg
 
 gallery:
