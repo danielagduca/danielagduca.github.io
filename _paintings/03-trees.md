@@ -11,18 +11,18 @@ tags:
  - nature
 header:
   image: /docs/paintings/trees/tree_of_life_25x30cm2015.jpg
-  teaser: /docs/paintings/trees/tree_of_life_25x30cm_2015.jpg
+  teaser: /docs/paintings/trees/tree_of_life_25x30cm2015.jpg
 gallery:
   - url: /docs/paintings/trees/tree_of_life_25x30cm2015.jpg
-    image_path: /docs/paintings/love/tree_of_life_25x30cm2015.jpg
+    image_path: /docs/paintings/trees/tree_of_life_25x30cm2015.jpg
     alt: "Tree of Life"
     title: "Tree of Life, 25x30cm, 2015"
   - url: /docs/paintings/trees/fools_garden_lemon_tree_60x50cm2016.jpg
-    image_path: /docs/paintings/love/fools_garden_lemon_tree_60x50cm2016.jpg
+    image_path: /docs/paintings/trees/fools_garden_lemon_tree_60x50cm2016.jpg
     alt: "Fool's Garged Lemon Tree"
     title: "Fool's Garged Lemon Tree, 60x50cm, 2016"
   - url: /docs/paintings/trees/tree_of_the_brave_25x25cm2016.jpg
-    image_path: /docs/paintings/love/tree_of_the_brave_25x25cm2016.jpg
+    image_path: /docs/paintings/trees/tree_of_the_brave_25x25cm2016.jpg
     alt: "Tree of the brave"
     title: "Tree of the brave, 25x25cm, 2016"
 ---
