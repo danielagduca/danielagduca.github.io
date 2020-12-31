@@ -14,7 +14,7 @@ header:
   teaser: /docs/paintings/trees/tree_of_life_25x30cm_2015.jpg
 gallery:
   - url: /docs/paintings/trees/tree_of_life_25x30cm_2015.jpg
-    image_path: /paintings/love/tree_of_life_25x30cm_2015.jpg
+    image_path: /docs/paintings/love/tree_of_life_25x30cm_2015.jpg
     alt: "Tree of Life"
     title: "Tree of Life, 25x30cm, 2015"
 ---

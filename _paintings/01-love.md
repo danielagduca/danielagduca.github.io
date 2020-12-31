@@ -13,7 +13,7 @@ header:
   teaser: /docs/paintings/love/danger_of_passion_20x20cm_2016.jpg
 gallery:
   - url: /docs/paintings/love/danger_of_passion_20x20cm_2016.jpg
-    image_path: /paintings/love/danger_of_passion_20x20cm_2016.jpg
+    image_path: /docs/paintings/love/danger_of_passion_20x20cm_2016.jpg
     alt: "Danger of Passion"
     title: "Danger of Passion, 20x20cm, 2016"
   - url: /docs/paintings/love/warning_amoris_suspended_30x60_2016.jpg

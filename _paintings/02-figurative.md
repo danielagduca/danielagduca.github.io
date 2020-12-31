@@ -14,7 +14,7 @@ header:
   teaser: /docs/paintings/figurative/AmedeosWomen_30x80cm_2018.jpg
 gallery:
   - url: /docs/paintings/figurative/AmedeosWomen_30x80cm_2018.jpg
-    image_path: /paintings/love/AmedeosWomen_30x80cm_2018.jpg
+    image_path: /docs/paintings/love/AmedeosWomen_30x80cm_2018.jpg
     alt: "Amedeos Women"
     title: "Amedeos Women, 30x80cm, 2018"
 ---
