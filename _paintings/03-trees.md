@@ -1,7 +1,16 @@
 ---
+title: "Figurative paintings, 2016-2019"
 short_name: trees
 year: 2015
-colors: yellow, grey, blue
+tags:
+ - yellow
+ - acrylic
+ - art
+ - tree
+ - nature
+header:
+  image: /docs/paintings/trees/AmedeosWomen_30x80cm_2018.jpg
+  teaser: /docs/paintings/trees/AmedeosWomen_30x80cm_2018.jpg
 ---
 
 The series of trees was born out of an experiment with color and paste. It is an extension of my crazy yellow theory.

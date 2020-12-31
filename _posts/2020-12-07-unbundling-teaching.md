@@ -7,6 +7,7 @@ tags:
  - tools
  - startups
 header:
+  image: /docs/posts_images/unbundling_teaching.png
   teaser: /docs/posts_images/unbundling_teaching.png
 toc: true
 ---
