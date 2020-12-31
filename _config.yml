@@ -105,13 +105,14 @@ defaults:
       related: true    
 #can add other defaults, like so
   # _paintings
-  #- scope:
-   #   path: ""
-    #  type: paintings
+  - scope:
+      path: ""
+      type: paintings
     #values:
-     # layout: single
-
-
+      layout: single
+      author_profile: true
+      share: true
+      related: true
 
 # Author
 author:
