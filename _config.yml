@@ -8,7 +8,6 @@ name                     : "Dr Daniela Duca"
 description              : ""
 repository_url           : "https://github.com/danielagduca/danielagduca.github.io"
 url                      : "https://danielagduca.github.io"
-baseurl                  : 
 repository               : "danielagduca/danielagduca.github.io"
 teaser                   : "/paintings/WarningAmorisSuspended_30x60_2016_2.jpg"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
@@ -91,6 +90,15 @@ footer:
     
 # Defaults
 defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: collection
+      author_profile: false
+      share: true
+      related: true
   # _posts 
   - scope:
       path: ""
