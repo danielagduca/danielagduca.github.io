@@ -1,7 +1,7 @@
 ---
 title: "A crazy yellow theory original series, 2016"
 short_name: love
-year: 2016
+layout: default
 tags:
  - gallery
  - yellow
@@ -20,6 +20,10 @@ gallery:
     image_path: /docs/paintings/love/warning_amoris_suspended_30x60_2016.jpg
     alt: "Warning Amoris Suspended"
     title: "Warning Amoris Suspended, 30x60cm, 2016"
+  - url: /docs/paintings/love/danger_high_voltage_love_25x25cm_2016.jpg
+    image_path: /docs/paintings/love/danger_high_voltage_love_25x25cm_2016.jpg
+    alt: "Danger! High Voltage Love"
+    title: "Danger! High Voltage Love, 25x25cm, 2016"  
 ---
 
 The yellow crazy theory original series of love. 
