@@ -11,7 +11,7 @@ tags:
  - figurative
  - bodies
 header:
-  teaser: /paintings/figurative/AmedeosWomen_30x80cm_2018.jpg
+  teaser: /docs/paintings/figurative/AmedeosWomen_30x80cm_2018.jpg
 
 ---
 

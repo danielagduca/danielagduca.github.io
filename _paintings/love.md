@@ -10,10 +10,10 @@ tags:
  - art
  - love
 header:
-  teaser: /paintings/love/Danger_of_passion_20x20cm_2016.jpg
+  teaser: /docs/paintings/love/Danger_of_passion_20x20cm_2016.jpg
 
 gallery:
-  - url: /paintings/love/Danger_of_passion_20x20cm_2016.jpg
+  - url: /docs/paintings/love/Danger_of_passion_20x20cm_2016.jpg
     image_path: /paintings/love/Danger_of_passion_20x20cm_2016.jpg
     alt: "Danger of Passion"
     title: "Danger of Passion, 20x20cm, 2016"
