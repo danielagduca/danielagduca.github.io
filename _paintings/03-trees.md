@@ -2,7 +2,7 @@
 title: "Trees and nature, 2015-2018"
 short_name: trees
 excerpt: "A collection of trees and nature, including the most loved Fools' garden lemon tree"
-year: 2015
+layout: single
 tags:
  - yellow
  - acrylic

@@ -1,7 +1,7 @@
 ---
 title: "Figurative paintings, 2016-2019"
 short_name: figurative
-year: 2018
+layout: single
 tags:
  - gallery
  - yellow
