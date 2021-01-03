@@ -16,34 +16,75 @@ gallery:
     image_path: /docs/paintings/love/danger_of_passion_20x20cm2016.jpg
     alt: "Danger of Passion"
     title: "Danger of Passion, 20x20cm, 2016"
-  - url: /docs/paintings/love/warning_amoris_suspended_30x60cm2016.jpg
-    image_path: /docs/paintings/love/warning_amoris_suspended_30x60cm2016.jpg
-    alt: "Warning Amoris Suspended"
-    title: "Warning Amoris Suspended, 30x60cm, 2016"
-  - url: /docs/paintings/love/danger_high_voltage_love_25x25cm2016.jpg
-    image_path: /docs/paintings/love/danger_high_voltage_love_25x25cm2016.jpg
-    alt: "Danger! High Voltage Love"
-    title: "Danger! High Voltage Love, 25x25cm, 2016"  
-  - url: /docs/paintings/love/blind_spot_50x100cm2016.jpg
-    image_path: /docs/paintings/love/blind_spot_50x100cm2016.jpg
-    alt: "Blind spot"
-    title: "Blind spot, 50x100cm, 2016"
-  - url: /docs/paintings/love/detour_20x20cm2016.jpg
-    image_path: /docs/paintings/love/detour_20x20cm2016.jpg
-    alt: "DETOUR"
-    title: "DETOUR, 20x20cm, 2016"
-  - url: /docs/paintings/love/emergency_access_only_50x60cm2016.jpg
-    image_path: /docs/paintings/love/emergency_access_only_50x60cm2016.jpg
-    alt: "EMERGENCY ACCESS ONLY"
-    title: "EMERGENCY ACCESS ONLY, 50x60cm, 2016" 
+  - url: /docs/paintings/love/caution_heart_slippery_when_wet_12x12cm2016.jpg
+    image_path: /docs/paintings/love/caution_heart_slippery_when_wet_12x12cm2016.jpg
+    alt: "Caution! Heart slippery when wet"
+    title: "Caution! Heart slippery when wet, 12x12cm, 2016"  
+  - url: /docs/paintings/love/chequered_love_25x25cm2016.jpg
+    image_path: /docs/paintings/love/chequered_love_25x25cm2016.jpg
+    alt: "Chequered love"
+    title: "Chequered love, 25x25cm, 2016"
+  - url: /docs/paintings/love/emotion_on_diversion_30x30cm2016.jpg
+    image_path: /docs/paintings/love/emotion_on_diversion_30x30cm2016.jpg
+    alt: "Emotion on diversion"
+    title: "Emotion on diversion, 30x30cm, 2016"
+  - url: /docs/paintings/love/juliet_crossing_12x12cm2016.jpg
+    image_path: /docs/paintings/love/juliet_crossing_12x12cm2016.jpg
+    alt: "Juliet Crossing"
+    title: "Juliet Crossing, 12x12cm, 2016"
+  - url: /docs/paintings/love/love_stop_closed_15x15cm2016.jpg
+    image_path: /docs/paintings/love/love_stop_closed_15x15cm2016.jpg
+    alt: "Love Stop Closed"
+    title: "Love Stop Closed, 15x15cm, 2016"  
   - url: /docs/paintings/love/major_love_ahead_25x25cm2016.jpg
     image_path: /docs/paintings/love/major_love_ahead_25x25cm2016.jpg
     alt: "Major Love Ahead"
     title: "Major Love Ahead, 25x25cm, 2016" 
+  - url: /docs/paintings/love/lust_bump_ahead_20x20cm2016.jpg
+    image_path: /docs/paintings/love/lust_bump_ahead_20x20cm2016.jpg
+    alt: "Lust Bump Ahead"
+    title: "Lust Bump Ahead, 20x20cm, 2016" 
+  - url: /docs/paintings/love/proceed_with_caution_20x20cm2016.jpg
+    image_path: /docs/paintings/love/proceed_with_caution_20x20cm2016.jpg
+    alt: "Proceed with caution"
+    title: "Proceed with caution, 20x20cm, 2016"      
+  - url: /docs/paintings/love/warning_highly_flammable_20x20cm2016.jpg
+    image_path: /docs/paintings/love/warning_highly_flammable_20x20cm2016.jpg
+    alt: "Warning! Highly Flammable"
+    title: "Warning! Highly Flammable, 20x20cm, 2016" 
   - url: /docs/paintings/love/upside_down_affection_40x120cm2016.jpg
     image_path: /docs/paintings/love/upside_down_affection_40x120cm2016.jpg
     alt: "Upside down affection"
-    title: "Upside down affection, 40x120cm, 2016"   
+    title: "Upside down affection, 40x120cm, 2016"  
+  - url: /docs/paintings/love/danger_fragile_likes_70x100cm2016.jpg
+    image_path: /docs/paintings/love/danger_fragile_likes_70x100cm2016.jpg
+    alt: "Danger! Fragile Likes"
+    title: "Danger! Fragile Likes, 70x100cm, 2016"  
+  - url: /docs/paintings/love/please_stand_behind_yellow_line_love_approaches_100x70cm2016.jpg
+    image_path: /docs/paintings/love/please_stand_behind_yellow_line_love_approaches_100x70cm2016.jpg
+    alt: "Please stand behine the yellow line, love approaches"
+    title: "Please stand behine the yellow line, love approaches, 100x70cm, 2016"  
+gallery2:
+  - url: /docs/paintings/love/detour_20x20cm2016.jpg
+    image_path: /docs/paintings/love/detour_20x20cm2016.jpg
+    alt: "DETOUR"
+    title: "DETOUR, 20x20cm, 2016"
+  - url: /docs/paintings/love/danger_high_voltage_love_25x25cm2016.jpg
+    image_path: /docs/paintings/love/danger_high_voltage_love_25x25cm2016.jpg
+    alt: "Danger! High Voltage Love"
+    title: "Danger! High Voltage Love, 25x25cm, 2016" 
+  - url: /docs/paintings/love/blind_spot_50x100cm2016.jpg
+    image_path: /docs/paintings/love/blind_spot_50x100cm2016.jpg
+    alt: "Blind spot"
+    title: "Blind spot, 50x100cm, 2016"
+  - url: /docs/paintings/love/warning_amoris_suspended_30x60cm2016.jpg
+    image_path: /docs/paintings/love/warning_amoris_suspended_30x60cm2016.jpg
+    alt: "Warning Amoris Suspended"
+    title: "Warning Amoris Suspended, 30x60cm, 2016" 
+  - url: /docs/paintings/love/emergency_access_only_50x60cm2016.jpg
+    image_path: /docs/paintings/love/emergency_access_only_50x60cm2016.jpg
+    alt: "EMERGENCY ACCESS ONLY"
+    title: "EMERGENCY ACCESS ONLY, 50x60cm, 2016" 
 ---
 
 The yellow crazy theory original series of love. 
@@ -74,3 +115,8 @@ I have a confession. I watch romantic comedies while I paint. I’ll write in an
 sensational aspects. This is nothing new. But would it not be great if we had some danger signs in our romantic journeys? And I took it upon me to make the signs.
 
 I present to you, the collection of paintings that were exhibited in my first solo gallery combining the theme of yellow and our love journeys in a crazy yellow theory. If you would like to buy any of these, please reach out.
+
+****
+A few more paintings from the series that were sold or gifted.
+
+{% include gallery2 caption="Sold out paintings from the original series, exhibited at Lacey Contemporary Art Gallery on 15-16 July 2016." %}

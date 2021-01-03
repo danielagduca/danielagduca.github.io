@@ -17,14 +17,39 @@ gallery:
     image_path: /docs/paintings/trees/tree_of_life_25x30cm2015.jpg
     alt: "Tree of Life"
     title: "Tree of Life, 25x30cm, 2015"
+  - url: /docs/paintings/trees/tree_of_love_25x25cm2016.jpg
+    image_path: /docs/paintings/trees/tree_of_love_25x25cm2016.jpg
+    alt: "Tree of Love"
+    title: "Tree of Love, 25x25cm, 2016"    
+  - url: /docs/paintings/trees/tree_of_the_brave_25x25cm2016.jpg
+    image_path: /docs/paintings/trees/tree_of_the_brave_25x25cm2016.jpg
+    alt: "Tree of the brave"
+    title: "Tree of the brave, sold, 25x25cm, 2016"
   - url: /docs/paintings/trees/fools_garden_lemon_tree_60x50cm2016.jpg
     image_path: /docs/paintings/trees/fools_garden_lemon_tree_60x50cm2016.jpg
     alt: "Fool's Garged Lemon Tree"
     title: "Fool's Garged Lemon Tree, 60x50cm, 2016"
-  - url: /docs/paintings/trees/tree_of_the_brave_25x25cm2016.jpg
-    image_path: /docs/paintings/trees/tree_of_the_brave_25x25cm2016.jpg
-    alt: "Tree of the brave"
-    title: "Tree of the brave, 25x25cm, 2016"
+  - url: /docs/paintings/trees/daphne_30x25cm2016.jpg
+    image_path: /docs/paintings/trees/daphne_30x25cm2016.jpg
+    alt: "Daphne"
+    title: "Daphne, 60x50cm, 2016"
+  - url: /docs/paintings/trees/london_rain_30x25cm2016.jpg
+    image_path: /docs/paintings/trees/london_rain_30x25cm2016.jpg
+    alt: "London Rain"
+    title: "London Rain, sold, 30x25cm, 2016"
+  - url: /docs/paintings/trees/what_is_love_100x70cm_2016.jpg
+    image_path: /docs/paintings/trees/what_is_love_100x70cm_2016.jpg
+    alt: "What is love, or the burning tree"
+    title: "What is love, or the burning tree, 100x70cm, 2016"     
+gallery2:
+  - url: /docs/paintings/trees/tree_of_the_brave_25x25cm2016_detail.jpg
+    image_path: /docs/paintings/trees/tree_of_the_brave_25x25cm2016_detail.jpg
+    alt: "Tree of Life"
+    title: "Tree of Life, 25x30cm, 2015"
+  - url: /docs/paintings/trees/tree_of_love_25x25cm2016_detail.jpg
+    image_path: /docs/paintings/trees/tree_of_love_25x25cm2016_detail.jpg
+    alt: "Tree of Love"
+    title: "Tree of Love, 25x25cm, 2016"
 ---
 
 The series of trees was born out of an experiment with color and paste. It is an extension of my crazy yellow theory.
@@ -38,3 +63,7 @@ It was called the The Tree of Life because you could just take one of its leaves
 My second tree – the Fools garden lemon tree is an extension of my crazy yellow theory. I wanted something different from everyday life. Still a recognizable tree, but a memorable one. So, yellow it is. With a neon leaves. My friends say it’s burning. But it just reminds me of the song by Fool’s garden – Lemon Tree.
 
 My partner loves it. He said I should paint some more. So I did.
+
+Here are also some pictures to show the embossed bits of the trees:
+
+{% include gallery2 caption="Trees, embossing" %}
