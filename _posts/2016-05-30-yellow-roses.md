@@ -6,7 +6,7 @@ tags:
  - yellow
  - a crazy yellow theory
 header:
-  teaser: https://flic.kr/p/92muyW
+  teaser: "https://live.staticflickr.com/8809/17482773603_1afc426d28_b.jpg"
 toc: true
 ---  
 

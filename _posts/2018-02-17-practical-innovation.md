@@ -6,7 +6,7 @@ tags:
  - science
  - entrepreneurship
 header:
-  teaser: ""https://www.flickr.com/photos/7228516@N03/50794962987/in/photostream/"
+  teaser: "https://live.staticflickr.com/65535/50794962987_0eeb6a8096_b.jpg"
 toc: true
 ---  
 
