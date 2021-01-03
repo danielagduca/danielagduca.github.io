@@ -9,9 +9,11 @@ header:
   teaser: https://live.staticflickr.com/6235/6272628347_7d9a7c1c09_b.jpg
 ---   
 
-**Note:** Honorable mention at the MacKnight Black Poetry Competition in 2009.
+> Honorable mention at the MacKnight Black Poetry Competition in 2009.
 
-*The following poem is the creed of a Rastafarian. It is written in Caribbean creole English and has 108 lines divided in 12 stanzas, each having 9 lines. All numbers represent the integrity of Jah (God, Buddha, Dumnezeu etc.). For instance 108 adds up to 9 which is the ideal number. Also, 108 contains “0” in the middle, which represents the circular and all-encompassing nature of Jah. 12 adds to 3, and 9 is a multiple of 3. The language used has a specific meaning. Always use first person personal pronoun such as “I n I” (instead of “I”) or “I” (instead of  “me” or “my”). Words that usually represent concepts would have “I” incorporated, some verbs are fused. (“Irie” – “I man free” or I am a free man; “I aan n I a knacka” – I am here and I have a good heart/soul/spirit)*
+> **_NOTE:_** The following poem is the creed of a Rastafarian. It is written in Caribbean creole English and has 108 lines divided in 12 stanzas, each having 9 lines. All numbers represent the integrity of Jah (God, Buddha, Dumnezeu etc.). For instance 108 adds up to 9 which is the ideal number. Also, 108 contains “0” in the middle, which represents the circular and all-encompassing nature of Jah. 12 adds to 3, and 9 is a multiple of 3. The language used has a specific meaning. Always use first person personal pronoun such as “I n I” (instead of “I”) or “I” (instead of  “me” or “my”). Words that usually represent concepts would have “I” incorporated, some verbs are fused. (“Irie” – “I man free” or I am a free man; “I aan n I a knacka” – I am here and I have a good heart/soul/spirit)
+
+
 
 # I n I forever loving Jah
 
