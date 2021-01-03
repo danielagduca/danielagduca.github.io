@@ -1,8 +1,8 @@
 ---
 title: "Suferinzi (the ones who suffer)"
-tags:
- - poetry
 categories:
+ - Poetry
+tags:
  - poetry 
 toc: false
 header:
