@@ -47,8 +47,8 @@ gallery3:
     image_path: /docs/paintings/figurative/amedeoswomen_30x80cm2018.jpg
     alt: "Amedeos Women"
     title: "Amedeos Women, 30x80cm, 2018"
-  - url: /docs/paintings/figurative/amedeoswomen_30x80cm2018_sunlight.jpg
-    image_path: /docs/paintings/figurative/amedeoswomen_30x80cm2018_sunlight.jpg
+  - url: /docs/paintings/figurative/amedeoswomen_30x80cm2018_sunlight.jpeg
+    image_path: /docs/paintings/figurative/amedeoswomen_30x80cm2018_sunlight.jpeg
     alt: "Amedeos Women with sunlight"
     title: "Amedeos Women with sunlight, 30x80cm, 2018"
   - url: /docs/paintings/figurative/amedeoswomen_30x80cm2018_process1.jpg

@@ -33,8 +33,8 @@ gallery:
     image_path: /docs/paintings/trees/daphne_30x25cm2016.jpg
     alt: "Daphne"
     title: "Daphne, 60x50cm, 2016"
-  - url: /docs/paintings/trees/london_rain_30x25cm2016.jpg
-    image_path: /docs/paintings/trees/london_rain_30x25cm2016.jpg
+  - url: /docs/paintings/trees/london_rain_30x25cm2016.jpeg
+    image_path: /docs/paintings/trees/london_rain_30x25cm2016.jpeg
     alt: "London Rain"
     title: "London Rain, sold, 30x25cm, 2016"
   - url: /docs/paintings/trees/what_is_love_100x70cm_2016.jpg
