@@ -9,7 +9,6 @@ header:
   teaser: "https://live.staticflickr.com/65535/50794962987_0eeb6a8096_b.jpg"
 toc: true
 ---  
-
 (with examples)
 
 Whenever I think about innovation within established companies (or the innovators themselves), I always go back to Plato’s cave allegory. In a corporate structure, an innovator can sometimes feel like the prisoner that escaped and found the absolute (not perceived) source of life. Overwhelmed by knowledge and excitement, he tries to convince his prisoner mates about the way the world works, but they do not believe him, even threaten to kill. What can we do, within our own places of work, to remove or reduce this sort of barriers to innovation? I won’t even start to define innovation here, there are too many opinions and too many have studied it in more depth than I did. So for the sake of less arguments, assume innovation in its broadest sense.
