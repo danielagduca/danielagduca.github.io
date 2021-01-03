@@ -2,6 +2,8 @@
 title: "Suferinzi (the ones who suffer)"
 tags:
  - poetry
+categories:
+ - poetry 
 toc: false
 header:
   teaser: https://live.staticflickr.com/6057/6273156788_7590a22781_b.jpg
