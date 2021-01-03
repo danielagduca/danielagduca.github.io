@@ -11,7 +11,7 @@ tags:
 header:
   image: /docs/paintings/love/warning_amoris_suspended_30x60cm2016.jpg
   teaser: /docs/paintings/love/warning_amoris_suspended_30x60cm2016.jpg
-gallery:
+gallery: 
   - url: /docs/paintings/love/danger_of_passion_20x20cm2016.jpg
     image_path: /docs/paintings/love/danger_of_passion_20x20cm2016.jpg
     alt: "Danger of Passion"
@@ -64,7 +64,7 @@ gallery:
     image_path: /docs/paintings/love/please_stand_behind_yellow_line_love_approaches_100x70cm2016.jpg
     alt: "Please stand behine the yellow line, love approaches"
     title: "Please stand behine the yellow line, love approaches, 100x70cm, 2016"  
-gallery2:
+gallery2: 
   - url: /docs/paintings/love/detour_20x20cm2016.jpg
     image_path: /docs/paintings/love/detour_20x20cm2016.jpg
     alt: "DETOUR"
@@ -84,7 +84,7 @@ gallery2:
   - url: /docs/paintings/love/emergency_access_only_50x60cm2016.jpg
     image_path: /docs/paintings/love/emergency_access_only_50x60cm2016.jpg
     alt: "EMERGENCY ACCESS ONLY"
-    title: "EMERGENCY ACCESS ONLY, 50x60cm, 2016" 
+    title: "EMERGENCY ACCESS ONLY, 50x60cm, 2016"
 ---
 
 The yellow crazy theory original series of love. 
@@ -119,4 +119,4 @@ I present to you, the collection of paintings that were exhibited in my first so
 ****
 A few more paintings from the series that were sold or gifted.
 
-{% include gallery2 caption="Sold out paintings from the original series, exhibited at Lacey Contemporary Art Gallery on 15-16 July 2016." %}
+{% include gallery id="gallery2" caption="Sold out paintings from the original series, exhibited at Lacey Contemporary Art Gallery on 15-16 July 2016." %}

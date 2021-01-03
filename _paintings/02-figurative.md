@@ -75,9 +75,9 @@ This series of paintings is an exploration of the world of social media and the 
 
 The paintings from this series that were sold or gifted.
 
-{% include gallery2 caption="Sold out, figurative work, 2016-2019, exhibited at Elizabeth James Art Gallery for **Figuratively Speaking** in 2018" %}
+{% include gallery id="gallery2" caption="Sold out, figurative work, 2016-2019, exhibited at Elizabeth James Art Gallery for **Figuratively Speaking** in 2018" %}
 
 And here's the latest figurative, inspired by Amedeo Modigliani.
 
-{% include gallery3 caption="Progress and lights for Amedeos Women, 2018" %}
+{% include gallery id="gallery3" caption="Progress and lights for Amedeos Women, 2018" %}
 

@@ -66,4 +66,4 @@ My partner loves it. He said I should paint some more. So I did.
 
 Here are also some pictures to show the embossed bits of the trees:
 
-{% include gallery2 caption="Trees, embossing" %}
+{% include gallery id="gallery2" caption="Trees, embossing" %}
