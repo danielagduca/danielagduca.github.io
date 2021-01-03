@@ -1,9 +1,7 @@
 ---
 title: "I n I forever loing jah"
 tags:
- - poetry
-header:
-  teaser: 
+ - poetry 
 toc: false
 ---   
 
