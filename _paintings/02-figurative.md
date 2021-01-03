@@ -13,16 +13,16 @@ header:
   image: /docs/paintings/figurative/study_of_torso_25x25cm2017.jpg
   teaser: /docs/paintings/figurative/study_of_torso_25x25cm2017.jpg
 gallery:
-  - url: /docs/paintings/figurative/runway_120x40cm2016.jpg
-    image_path: /docs/paintings/figurative/runway_120x40cm2016.jpg
-    alt: "Runway"
-    title: "Runway, 40x120cm, 2016"
   - url: /docs/paintings/figurative/study_of_torso_25x25cm2017.jpg
     image_path: /docs/paintings/figurative/study_of_torso_25x25cm2017.jpg
     alt: "Study of torso"
     title: "Study of torso, 25x25cm, 2018"
   - url: /docs/paintings/figurative/the_pose_43x43cm2017.jpg
     image_path: /docs/paintings/figurative/the_pose_43x43cm2017.jpg
+    alt: "The pose"
+    title: "The pose, 43x43cm, 2017"
+  - url: /docs/paintings/figurative/the_pose_43x43cm2017_detail.jpg
+    image_path: /docs/paintings/figurative/the_pose_43x43cm2017_detail.jpg
     alt: "The pose"
     title: "The pose, 43x43cm, 2017"
   - url: /docs/paintings/figurative/the_three_muses_60x60cm2017.jpg
@@ -32,7 +32,11 @@ gallery:
   - url: /docs/paintings/figurative/lady_in_red_50x60cm_2012.jpg
     image_path: /docs/paintings/figurative/lady_in_red_50x60cm_2012.jpg
     alt: "Lady in red"
-    title: "Lady in red, 50x60cm, 2017"  
+    title: "Lady in red, 50x60cm, 2017"
+  - url: /docs/paintings/figurative/runway_120x40cm2016.jpg
+    image_path: /docs/paintings/figurative/runway_120x40cm2016.jpg
+    alt: "Runway"
+    title: "Runway, 40x120cm, 2016"  
 gallery2:
   - url: /docs/paintings/figurative/the_flying_ballerina_60x60cm2016.jpg
     image_path: /docs/paintings/figurative/the_flying_ballerina_60x60cm2016.jpg
