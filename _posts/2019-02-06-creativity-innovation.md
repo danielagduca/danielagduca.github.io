@@ -27,7 +27,7 @@ If you look, side-by-side, at the paintings of Picasso and Matisse, or Picasso a
 
 By employing his creativity with every painting and every work, Picasso was able to combine a variety of elements, iteratively developing his lines and curves, working on both the painting technique as well as the subject, going from illustrative portraits to the abstract figures of his later career. His style evolved, from something that may have been innovative a century before, into simpler lines and abstract elements that were not naturally aligned with the perception of what chefs d’oeuvres should look like at that time. That was the innovation. And without creativity at every step, he wouldn’t have developed this innovation in his artistic style. He did, indeed, retreat to his studio, but he was calling upon a host of experiences and thoughts that he had come up with while interacting with other people and objects.
 
-{% include figure image_path="https://imgur.com/gallery/pxV5yEj" alt="Picasso's evolution" caption="Picasso evolution. Compiled by dyhuman and retrieved from imgur.com" %}
+{% include figure image_path="https://i.imgur.com/pxV5yEj.jpeg" alt="Picasso's evolution" caption="Picasso evolution. Compiled by dyhuman and retrieved from imgur.com" %}
 
 ## Other artists
 

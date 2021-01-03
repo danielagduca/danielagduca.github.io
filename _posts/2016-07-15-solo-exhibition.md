@@ -4,7 +4,7 @@ tags:
  - art
  - events
 header:
-  teaser: 
+  teaser: /docs/paintings/camden_art.jpeg
 toc: false
 ---  
 

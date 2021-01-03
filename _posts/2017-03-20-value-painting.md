@@ -8,7 +8,7 @@ tags:
  - my theories
  - events
 header:
-  teaser: 
+  teaser: https://live.staticflickr.com/2938/33027161861_32b01c2685_b.jpg
 toc: true
 ---   
 

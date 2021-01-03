@@ -6,8 +6,7 @@ tags:
  - psychology
  - self-help
 header:
-#  image: /docs/posts_images/unbundling_teaching.png
-#  teaser: /docs/posts_images/unbundling_teaching.png
+  teaser: https://live.staticflickr.com/5793/30605023375_0c1c500672_b.jpg
 toc: true
 ---   
     

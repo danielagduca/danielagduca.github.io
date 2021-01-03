@@ -6,7 +6,7 @@ tags:
  - university
  - my theories
 header:
-  teaser: 
+  teaser: https://live.staticflickr.com/5827/23566157192_98f117fc75_b.jpg
 toc: true
 ---  
 

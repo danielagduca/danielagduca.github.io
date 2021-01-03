@@ -3,7 +3,7 @@ title: "How to be happy in London"
 tags:
  - poetry
 header:
-  teaser: 
+  teaser: https://live.staticflickr.com/3396/4640455051_46ef4a7c18_o.jpg
 toc: false
 ---  
 

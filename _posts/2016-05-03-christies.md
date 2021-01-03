@@ -6,7 +6,7 @@ tags:
  - art
  - reviews
 header:
-  teaser: 
+  teaser: https://live.staticflickr.com/5017/5498448470_c97c0d2386_b.jpg
 toc: false
 ---  
 

@@ -8,7 +8,7 @@ tags:
  - Jude Law
  - London
 header:
-  teaser: "https://images.app.goo.gl/TPYYVd7hJ2q8tco39"
+  teaser: https://live.staticflickr.com/941/42814352185_7ba992215c_b.jpg
 toc: true
 ---   
 

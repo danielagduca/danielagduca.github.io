@@ -7,7 +7,7 @@ tags:
  - events
  - female artists
 header:
-  teaser: 
+  teaser: /docs/posts_images/carmen_herrera.jpeg
 toc: true
 ---   
 

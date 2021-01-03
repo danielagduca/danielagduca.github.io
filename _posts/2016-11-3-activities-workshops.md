@@ -6,7 +6,7 @@ tags:
  - workshops
  - team building
 header:
-  teaser: 
+  teaser: https://live.staticflickr.com/3742/18442687704_bf6601d811_b.jpg
 toc: true
 ---  
 

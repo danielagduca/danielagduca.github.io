@@ -4,7 +4,7 @@ tags:
  - self-help
  - academic research
 header:
-  teaser: https://unsplash.com/photos/O33IVNPb0RI
+  teaser: https://live.staticflickr.com/907/28161398858_421b961031_b.jpg
 toc: true
 ---  
 

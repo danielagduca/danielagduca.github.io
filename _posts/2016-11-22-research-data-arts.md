@@ -1,11 +1,11 @@
 ---
-title: "Fifty shades of yellow"
+title: "Research data in the creative and performing arts"
 tags:
  - art
  - artist
  - research data
 header:
-  teaser: 
+  teaser: https://live.staticflickr.com/300/32659680400_a3b7f341d6_b.jpg
 toc: true
 ---   
 

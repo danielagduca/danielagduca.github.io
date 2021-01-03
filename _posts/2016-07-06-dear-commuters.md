@@ -4,7 +4,7 @@ tags:
  - poetry
  - art
 header:
-  teaser: 
+  teaser: https://live.staticflickr.com/56/109325869_3d11e6fb5a_b.jpg
 toc: false
 ---  
 Like many of you, I find myself on autopilot every morning. I look at my phone, or gaze at the road just barely noticing anything or anyone. I am focused on getting to the office. I know where everything is. I don’t need the tube map and I definitely don’t create any traffic at the entrance to the station. How annoying, right?

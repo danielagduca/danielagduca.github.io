@@ -6,17 +6,17 @@ tags:
  - Ai Wei Wei
  - self-help
 header:
-  teaser: 
+  teaser: https://d1inegp6v2yuxm.cloudfront.net/royal-academy/image/upload/c_limit,cs_tinysrgb,dn_72,f_auto,fl_progressive.keep_iptc,w_1200/aajthpujixuau7rvwot6.jpeg
 toc: true
 ---   
 
 A few things are coming to mind. I am reading: “What are you looking at? 150 years of modern art in the blink of an eye” by Will Gompertz whilst trying to find my unique selling points as an artist. For about a year now, I am ever more curious and I want to understand what other artists do and what are their stories.
 
-{% include figure image_path="https://www.royalacademy.org.uk/art-artists/work-of-art/exhibition-room-somerset-house" alt="Exhibition Room, Sommerset House" caption="Exhibition Room, Sommerset House." %}
+{% include figure image_path="https://d1inegp6v2yuxm.cloudfront.net/royal-academy/image/upload/c_limit,cs_tinysrgb,dn_72,f_auto,fl_progressive.keep_iptc,w_1200/aajthpujixuau7rvwot6.jpeg" alt="Exhibition Room, Sommerset House" caption="Exhibition Room, Sommerset House." %}
 
 Andy Warhol was a fashion illustrator and didn’t find his ‘subject or style’ (the Campbell’s Soup Cans) immediately. He copied a few contemporary artists while trying to break into the world of art. Well into his career, Kandinsky, one of my favourite painters, left the law to paint the colours he could hear in Wagner’s opera.
 
-{% include figure image_path="https://images.app.goo.gl/bcqDqnTWKvTch8nZ7" alt="Andy Warhol’s Campbell’s Tomato Soup Cans." caption="Andy Warhol’s Campbell’s Tomato Soup Cans." %}
+{% include figure image_path="https://commons.wikimedia.org/wiki/File:CampbellsModif.png" alt="Andy Warhol’s Campbell’s Tomato Soup Cans." caption="Andy Warhol’s Campbell’s Tomato Soup Cans." %}
 
 
 The social and cultural scene inspired most of the artists that Gompertz talks about. He manages to show how one style or movement in art (painting and sculpture) has emerged from a previous one. It is probably one of the most fascinating books I have ever read and an amazing introduction into the world of contemporary art.
@@ -29,7 +29,7 @@ I can’t go into the definition of art because I don’t have any major credent
 
 Ai Weiwei doesn’t need to hire a marketing and PR team. His artistic excellence is self-sufficient.
 
-{% include figure image_path="https://flic.kr/p/h9c9nP" alt="Portrait of Ai Weiwei. Photo by thierry ehrmann." caption="Portrait of Ai Weiwei. Photo by thierry ehrmann." %}
+{% include figure image_path="https://live.staticflickr.com/2846/10594414665_cd98deb698_b.jpg" alt="Portrait of Ai Weiwei. Photo by thierry ehrmann." caption="Portrait of Ai Weiwei. Photo by thierry ehrmann." %}
 
 
 He doesn’t need to oversell his art in order to become viral for three reasons:
