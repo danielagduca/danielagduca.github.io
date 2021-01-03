@@ -4,7 +4,7 @@ tags:
  - text mining
  - computational social science
 header:
-  teaser: "https://unsplash.com/photos/hF8MYuQ5ABo"
+  teaser: https://unsplash.com/photos/hF8MYuQ5ABo
 toc: true
 ---  
 
