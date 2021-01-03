@@ -7,7 +7,7 @@ tags:
  - thoughts
  - my theories
 header:
-  teaser: 
+  teaser: https://live.staticflickr.com/421/18546405329_b6c310983c_b.jpg
 toc: true
 ---  
 

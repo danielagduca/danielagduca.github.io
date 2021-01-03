@@ -5,7 +5,7 @@ tags:
  - meditation
  - home
 header:
-  teaser: 
+  teaser: https://live.staticflickr.com/3862/15104610399_7215800969_o.jpg
 toc: false
 ---  
 

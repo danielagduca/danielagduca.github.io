@@ -3,6 +3,8 @@ title: "Suferinzi (the ones who suffer)"
 tags:
  - poetry
 toc: false
+header:
+  teaser: https://live.staticflickr.com/6057/6273156788_7590a22781_b.jpg
 ---  
 
 > Suferinzi (the ones who suffer) is a poem I wrote back in 2007.
