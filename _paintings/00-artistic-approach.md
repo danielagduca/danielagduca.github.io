@@ -8,6 +8,16 @@ tags:
  - artistic approach
 ---
 
+## Exhibitions:
+
+### Solo
+- 2016, A Crazy Yellow Theory, the love series, at Lacey Contemporary Gallery. Details about the collection.
+
+### Group
+- 2016, Explorations, at Walton Fine Arts Gallery.
+- 2018, Figuratively speaking, at Elizabeth James Gallery.
+
+## Artistic approach
 
 I feel like you can only be an artist if you have an identifiable style. Or an identifiable element. Or a signature brush move. Something recognizable. Something that any critic can take a look and say, oh yes, that is such and such. And the best ones are the easiest to identify.
 
