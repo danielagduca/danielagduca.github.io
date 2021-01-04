@@ -4,3 +4,11 @@ main:
    url: /paintings/ 
  - title: "Posts"
    url: /posts/
+
+categs:
+  - title: Creative
+    children:
+      - title: "Poetry"
+        url: /categories/#poetry
+      - title: "Art"
+        url: /categories/#art
