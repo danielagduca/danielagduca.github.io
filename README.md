@@ -1,4 +1,4 @@
 
 Imagination is my best friend.
 
-{% include video id="1Gow0xPBG6_Y8qrcqFuYjVocXTjQFJOnN" provider="google-drive" %}
+{% include figure image_path="/docs/posts_images/imagination_work.gif" alt="Imagination at work" %}
