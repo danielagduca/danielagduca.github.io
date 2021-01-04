@@ -1,5 +1,7 @@
 ---
 title: "The meaning of yellow roses"
+categories:
+ - Art
 tags:
  - creativity
  - art

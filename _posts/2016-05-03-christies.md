@@ -1,5 +1,7 @@
 ---
 title: "Printmaking with #christieslates"
+categories:
+ - Art
 tags:
  - christie's
  - events

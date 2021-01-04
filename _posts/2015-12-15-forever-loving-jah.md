@@ -3,7 +3,7 @@ title: "I n I forever loing jah"
 tags:
  - poetry
 categories:
- - poetry 
+ - Poetry 
 toc: false
 header:
   teaser: https://live.staticflickr.com/6235/6272628347_7d9a7c1c09_b.jpg

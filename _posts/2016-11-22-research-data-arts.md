@@ -1,5 +1,7 @@
 ---
 title: "Research data in the creative and performing arts"
+categories:
+ - Art
 tags:
  - art
  - artist

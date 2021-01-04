@@ -1,5 +1,7 @@
 ---
 title: "A crazy yellow theory - the vernissage"
+categories:
+ - Art
 tags:
  - art
  - events

@@ -1,5 +1,7 @@
 ---
 title: "What's that crazy yellow theory?"
+categories:
+ - Art
 tags:
  - thoughts
  - art

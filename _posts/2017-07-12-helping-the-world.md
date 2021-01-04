@@ -1,5 +1,7 @@
 ---
 title: "Helping the world, one painting at a time"
+categories:
+ - Art
 tags:
  - art
  - artist

@@ -1,5 +1,7 @@
 ---
 title: "How to be happy in London"
+categories:
+ - Poetry
 tags:
  - poetry
 header:

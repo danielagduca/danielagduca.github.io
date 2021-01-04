@@ -1,5 +1,7 @@
 ---
 title: "How to value a painting"
+categories:
+ - Art
 tags:
  - art
  - artist

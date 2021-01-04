@@ -1,5 +1,7 @@
 ---
 title: "How to be a great artist"
+categories:
+ - Art
 tags:
  - art
  - artist

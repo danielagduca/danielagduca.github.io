@@ -1,5 +1,7 @@
 ---
 title: "What art-ful meditation does to a scientist"
+categories:
+ - Art
 tags:
  - my theories
  - meditation
@@ -10,6 +12,7 @@ toc: false
 ---  
 
 > I was helping a friend with her personal statement for med school when I came across a very interesting word document in my old grad school application folders. It was interesting because I could not remember writing something with this title back in 2008 - what art-ful meditation does to a scientist! Although I am not surprised. I was at the stage where I was doing both - arts/humanities and science and it was time for decision-making. I was quite excited to read what I was thinking at that time and see how this panned out. And I must confess, half way through I was thinking this must make its way onto the blog. There was only one problem. When I reached the end, it wasn't finished. The last sentence does not have a full stop. There was a thought and it either got interrupted, or it was a computer glitch and my slick black mac at that time didn't save my work. Not unusual, but upsetting. Over the past 24 hours, I kept thinking whether I should finish that thought. Whether I should add something at the end to make it more clear of where I was leading to. This would be a new me commenting or finishing the old me. I thought about it. it would be interesting. And I do have some thoughts. But for the sake of art and the effect it would have on the curious mind, I will leave it open. I am inviting you all to finish it up. What's your end of the argument here?
+<cite>
 
 ## Just a theory…
 

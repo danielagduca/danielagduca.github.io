@@ -6,9 +6,9 @@ main:
    url: /posts/
 
 categs:
-  - title: Creative
+  - title: Posts by category
     children:
+      - title: "Art"
+        url: /categories/#art    
       - title: "Poetry"
         url: /categories/#poetry
-      - title: "Art"
-        url: /categories/#art

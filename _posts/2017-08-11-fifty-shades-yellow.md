@@ -1,5 +1,7 @@
 ---
 title: "Fifty shades of yellow"
+categories:
+ - Art
 tags:
  - art
  - artist

@@ -1,5 +1,7 @@
 ---
 title: "Five female artists today"
+categories:
+ - Art
 tags:
  - art
  - artist

@@ -1,5 +1,7 @@
 ---
 title: "Dear commuters,"
+categories:
+ - Poetry
 tags:
  - poetry
  - art

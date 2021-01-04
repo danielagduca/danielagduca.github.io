@@ -1,5 +1,7 @@
 ---
 title: "About efficiency and creativity"
+categories:
+ - Art
 tags:
  - efficiency
  - creativity
