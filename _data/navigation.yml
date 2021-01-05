@@ -9,7 +9,7 @@ categs:
   - title: Posts by category
     children:
       - title: "Tools & Technology"
-        url: /categories/#art
+        url: /categories/#tools-technology
       - title: "Innovation"
         url: /categories/#innovation
       - title: "Reviews"
