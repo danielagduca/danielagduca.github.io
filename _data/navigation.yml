@@ -20,3 +20,5 @@ categs:
         url: /categories/#musings    
       - title: "Poetry"
         url: /categories/#poetry
+      - title: "All posts"
+        url: /posts/
