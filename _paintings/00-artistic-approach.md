@@ -1,5 +1,6 @@
 ---
 title: "Artistic approach"
+excerpt: "I work in acrylics, use tons of yellow, and venture into recycling materials."
 short_name: love
 layout: single
 tags:

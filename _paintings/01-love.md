@@ -1,5 +1,6 @@
 ---
 title: "A crazy yellow theory original series, 2016"
+excerpt: "Yellow is a positive color of energy, but denotes danger as well. In this series, I explore yellow attributes of love."
 short_name: love
 layout: single
 tags:

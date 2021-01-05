@@ -1,5 +1,6 @@
 ---
 title: "Figurative paintings, 2016-2019"
+excerpt: "This series explores the perception of our bodies and how we see others."
 short_name: figurative
 layout: single
 tags:
