@@ -6,39 +6,39 @@ tags:
  - art
  - events
 header:
-  teaser: /docs/posts_images/venissage10.jpg
+  teaser: /docs/posts_images/vernissage10.jpg
 toc: false
 gallery: 
-  - url: /docs/posts_images/venissage10.jpg
-    image_path: /docs/posts_images/venissage10.jpg
-  - url: /docs/posts_images/vernissage5
-    image_path: /docs/posts_images/venissage5
-  - url: /docs/posts_images/vernissage9
-    image_path: /docs/posts_images/venissage9
-  - url: /docs/posts_images/vernissage13
-    image_path: /docs/posts_images/venissage13
-  - url: /docs/posts_images/vernissage14
-    image_path: /docs/posts_images/venissage14
-  - url: /docs/posts_images/vernissage16
-    image_path: /docs/posts_images/venissage16
-  - url: /docs/posts_images/vernissage18
-    image_path: /docs/posts_images/venissage18    
-  - url: /docs/posts_images/vernissage19
-    image_path: /docs/posts_images/venissage19    
-  - url: /docs/posts_images/vernissage20
-    image_path: /docs/posts_images/venissage20
-  - url: /docs/posts_images/vernissage17
-    image_path: /docs/posts_images/venissage17 
-  - url: /docs/posts_images/vernissage12
-    image_path: /docs/posts_images/venissage12 
-  - url: /docs/posts_images/vernissage1
-    image_path: /docs/posts_images/venissage1
-  - url: /docs/posts_images/vernissage3
-    image_path: /docs/posts_images/venissage3 
-  - url: /docs/posts_images/vernissage4
-    image_path: /docs/posts_images/venissage4 
-  - url: /docs/posts_images/vernissage8
-    image_path: /docs/posts_images/venissage8      
+  - url: /docs/posts_images/vernissage10.jpg
+    image_path: /docs/posts_images/vernissage10.jpg
+  - url: /docs/posts_images/vernissage5.jpg
+    image_path: /docs/posts_images/venissage5.jpg
+  - url: /docs/posts_images/vernissage9.jpg
+    image_path: /docs/posts_images/venissage9.jpg
+  - url: /docs/posts_images/vernissage13.jpg
+    image_path: /docs/posts_images/venissage13.jpg
+  - url: /docs/posts_images/vernissage14.jpg
+    image_path: /docs/posts_images/venissage14.jpg
+  - url: /docs/posts_images/vernissage16.jpg
+    image_path: /docs/posts_images/venissage16.jpg
+  - url: /docs/posts_images/vernissage18.jpg
+    image_path: /docs/posts_images/venissage18.jpg    
+  - url: /docs/posts_images/vernissage19.jpg
+    image_path: /docs/posts_images/venissage19.jpg    
+  - url: /docs/posts_images/vernissage20.jpg
+    image_path: /docs/posts_images/venissage20.jpg
+  - url: /docs/posts_images/vernissage17.jpg
+    image_path: /docs/posts_images/venissage17.jpg 
+  - url: /docs/posts_images/vernissage12.jpg
+    image_path: /docs/posts_images/venissage12.jpg 
+  - url: /docs/posts_images/vernissage1.jpg
+    image_path: /docs/posts_images/venissage1.jpg
+  - url: /docs/posts_images/vernissage3.jpg
+    image_path: /docs/posts_images/venissage3.jpg 
+  - url: /docs/posts_images/vernissage4.jpg
+    image_path: /docs/posts_images/venissage4.jpg 
+  - url: /docs/posts_images/vernissage8.jpg
+    image_path: /docs/posts_images/venissage8.jpg      
 ---  
 
 Last Friday was incredible. It was beyond my expectations. Thank you all for coming and contributing to an unforgettable opening night for my first solo exhibit. And thank you to Lacey Contemporary Gallery for hosting. Here are some pictures from the crazy yellow theory exhibit (courtesy of my dad and [@imaginativephotoworks](https://www.instagram.com/imaginativephotoworks/)).
