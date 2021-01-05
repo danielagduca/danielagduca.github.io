@@ -12,8 +12,8 @@ header:
   image: /docs/paintings/recycled/lockdown_holidays_2020_4.jpeg
   teaser: /docs/paintings/recycled/lockdown_holidays_2020_4.jpeg
 gallery:
-  - url: /docs/paintings/recycled/my_plastic_diet_122x76cm_2018.jpg
-    image_path: /docs/paintings/recycled/my_plastic_diet_122x76cm_2018.jpg
+  - url: /docs/paintings/recycled/my_plastic_diet_122x76cm2018.jpg
+    image_path: /docs/paintings/recycled/my_plastic_diet_122x76cm2018.jpg
     alt: "My plastic diet"
     title: "My plastic diet, 122x76cm, 2018"
   - url: /docs/paintings/recycled/lockdown_holidays_2020_1.jpeg
