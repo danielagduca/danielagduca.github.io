@@ -1,5 +1,7 @@
 ---
 title: "Creativity GYM"
+categories:
+ - Musings
 tags:
  - creativity
  - art

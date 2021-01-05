@@ -1,7 +1,7 @@
 ---
 title: "What art-ful meditation does to a scientist"
 categories:
- - Art
+ - Musings
 tags:
  - my theories
  - meditation

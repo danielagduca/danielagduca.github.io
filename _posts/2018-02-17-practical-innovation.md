@@ -1,5 +1,7 @@
 ---
 title: "Five practical ways to promote innovation"
+categories:
+ - Innovation
 tags:
  - self-help
  - innovation

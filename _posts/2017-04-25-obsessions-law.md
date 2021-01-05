@@ -1,5 +1,7 @@
 ---
 title: "First look at Obsessions with Jude Law"
+categories:
+ - Reviews
 tags:
  - review
  - events

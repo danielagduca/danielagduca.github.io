@@ -2,6 +2,7 @@
 title: "Printmaking with #christieslates"
 categories:
  - Art
+ - Reviews
 tags:
  - christie's
  - events

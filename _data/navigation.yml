@@ -8,7 +8,15 @@ main:
 categs:
   - title: Posts by category
     children:
+      - title: "Tools & Technology"
+        url: /categories/#art
+      - title: "Innovation"
+        url: /categories/#innovation
+      - title: "Reviews"
+        url: /categories/#reviews
       - title: "Art"
-        url: /categories/#art    
+        url: /categories/#art
+      - title: "Musings"
+        url: /categories/#musings    
       - title: "Poetry"
         url: /categories/#poetry

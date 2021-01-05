@@ -1,5 +1,7 @@
 ---
 title: "Three activities to spice up sizeable workshops"
+categories:
+ - Tools & Technology
 tags:
  - self-help
  - events

@@ -1,5 +1,7 @@
 ---
 title: "Three things I learned this week: serendipity, genome data and Viagra™"
+categories:
+ - Innovation
 tags:
  - self-help
  - events

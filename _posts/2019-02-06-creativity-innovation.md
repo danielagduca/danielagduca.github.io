@@ -1,5 +1,8 @@
 ---
 title: "Creativity vs Innovation"
+categories:
+ - Art
+ - Innovation
 tags:
  - self-help
  - creativity

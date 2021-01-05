@@ -2,6 +2,7 @@
 title: "Research data in the creative and performing arts"
 categories:
  - Art
+ - Tools & Technology
 tags:
  - art
  - artist

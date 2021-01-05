@@ -1,5 +1,8 @@
 ---
 title: "Turing Data Futures: AI for government policies and social justice"
+categories:
+ - Tools & Technology
+ - Reviews
 tags:
  - events
  - science

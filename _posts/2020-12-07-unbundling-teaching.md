@@ -1,5 +1,7 @@
 ---
 title: "Unbundling the remote quantitative methods academic: Coolest tools to support your teaching"
+categories:
+ - Tools & Technology
 tags:
  - social science
  - teaching

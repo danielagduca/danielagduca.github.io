@@ -1,5 +1,7 @@
 ---
 title: "6 experiments to explain everyday life"
+categories:
+ - Musings
 tags:
  - social science
  - experiments

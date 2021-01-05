@@ -1,5 +1,7 @@
 ---
 title: "How to find and use academic research if you don’t have access"
+categories:
+ - Tools & Technology
 tags:
  - self-help
  - academic research

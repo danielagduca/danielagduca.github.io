@@ -1,5 +1,7 @@
 ---
 title: "What I learned from mining researcher questions"
+categories:
+ - Tools & Technology
 tags:
  - text mining
  - computational social science
