@@ -32,8 +32,8 @@ gallery:
     image_path: /docs/paintings/recycled/lockdown_holidays_2020_6.jpeg
     alt: "Lockdown holidays"
     title: "Lockdown holidays, plastic water bottle caps with classic and fluid acrylics, 2020, different angles"
-  - url: /docs/paintings/recycled/lockdown_holidays_2020_8.jpeg
-    image_path: /docs/paintings/recycled/lockdown_holidays_2020_8.jpeg
+  - url: /docs/paintings/recycled/lockdown_holidays_2020_8.jpg
+    image_path: /docs/paintings/recycled/lockdown_holidays_2020_8.jpg
     alt: "Lockdown holidays"
     title: "Lockdown holidays, plastic water bottle caps with classic and fluid acrylics, 2020, different angles"
   - url: /docs/paintings/recycled/lockdown_holidays_2020_4.jpeg
