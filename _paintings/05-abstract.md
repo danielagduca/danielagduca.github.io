@@ -24,8 +24,8 @@ gallery:
     image_path: /docs/paintings/abstract/let_the_sunshine_in_2_30x30cm_2018.jpg
     alt: "Let the sunshine in #2"
     title: "Let the sunshine in #2, 30x30cm, 2018"   
-  - url: /docs/paintings/abstract/let_the_sunshine_in_25x25cm_2016.jpg
-    image_path: /docs/paintings/abstract/let_the_sunshine_in_25x25cm_2016.jpg
+  - url: /docs/paintings/abstract/let_the_sunshine_in_25x25cm2016.jpg
+    image_path: /docs/paintings/abstract/let_the_sunshine_in_25x25cm2016.jpg
     alt: "Let the sunshine in"
     title: "Let the sunshine in, 25x25cm, 2016"   
   - url: /docs/paintings/abstract/popsicle_20x20cm2016.jpg
@@ -36,8 +36,8 @@ gallery:
     image_path: /docs/paintings/abstract/the_idea_a_clear_line_with_twist_20x20cm2015.jpg
     alt: "The idea: a clear line with a twist"
     title: "the idea: a clear line with a twist, 20x20cm, 2015" 
-  - url: /docs/paintings/abstract/the_sound_of_happy_10x10cm_2018.jpg
-    image_path: /docs/paintings/abstract/the_sound_of_happy_10x10cm_2018.jpg
+  - url: /docs/paintings/abstract/the_sound_of_happy_10x10cm2018.jpg
+    image_path: /docs/paintings/abstract/the_sound_of_happy_10x10cm2018.jpg
     alt: "The sound of happy"
     title: "The sound of happy, 10x10cm, 2018"
   - url: /docs/paintings/abstract/happy_60x50cm2016.jpg
@@ -61,8 +61,8 @@ gallery2:
     image_path: /docs/paintings/abstract/the_touch_2_30x80cm2015.jpg
     alt: "The touch"
     title: "The touch, 30x80cm, 2015"
-  - url: /docs/paintings/abstract/the_touch_3_30x80cm_2015.jpg
-    image_path: /docs/paintings/abstract/the_touch_3_30x80cm_2015.jpg
+  - url: /docs/paintings/abstract/the_touch_3_30x80cm2015.jpg
+    image_path: /docs/paintings/abstract/the_touch_3_30x80cm2015.jpg
     alt: "The touch #3"
     title: "The touch #3, 30x80cm, 2015"
   - url: /docs/paintings/abstract/the_touch_grey_1_30x80cm2015.jpg
