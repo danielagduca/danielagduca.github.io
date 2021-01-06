@@ -4,6 +4,8 @@ main:
    url: /paintings/ 
  - title: "Posts"
    url: /posts/
+ - title: "Danger! Women at Work"
+   url: https://dangerwomenatwork.substack.com/  
 
 categs:
   - title: Posts by category
