@@ -1,5 +1,5 @@
 ---
-title: "Social scientists working with LinkedIn data"
+title: "Matchmaking tools: Augmenting the relationship between research and industry"
 categories:
  - Tools & Technology
 tags:
