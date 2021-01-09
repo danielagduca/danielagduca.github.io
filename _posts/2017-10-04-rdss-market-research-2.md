@@ -14,7 +14,7 @@ toc: true
 
 > This post originally appeared on [Jisc Research Data](https://researchdata.jiscinvolve.org/wp/2017/10/04/5-highlights-rdss-market-research/)
 
-Back in March, I wrote a blog on our plans and the first findings from the market research piece within the research data shared service project. We have come some way since then, but more work is expected. In this blog, I will summarise what we have done, and outline our next key steps. If you would like to get involved and are interested in the Jisc research data shared service, what it could do for your institution and how could you come on board, then do get in touch with me.
+Back in March, I wrote a [blog](/rdss-market-research/) on our plans and the first findings from the market research piece within the research data shared service project. We have come some way since then, but more work is expected. In this blog, I will summarise what we have done, and outline our next key steps. If you would like to get involved and are interested in the Jisc research data shared service, what it could do for your institution and how could you come on board, then do get in touch with me.
 
 To rewind, the [first steps involved looking at the secondary literature](https://researchdata.jiscinvolve.org/wp/2017/03/14/market-research-research-data-shared-service/) and the HEI data from HESA and other sources. We also hired Max Hammond to run some interviews on our behalf and get a first feel for the institutional perceptions of research data management, their current systems and set ups, and their future needs. Max interviewed a total of 20 individuals from 16 different institutions.
 
@@ -32,13 +32,13 @@ It is worth mentioning that beside the interviews, we have also looked at publis
 
 | **Institution** |	**References** |
 | --- | ---------|
-|Bristol |	http://www.emeraldinsight.com/doi/abs/10.1108/PROG-02-2015-0019 |
+|Bristol |	[Research data management at the University of Bristol: Charting a course from project to service](http://www.emeraldinsight.com/doi/abs/10.1108/PROG-02-2015-0019) |
 | --- | ---------|
 |Southampton, Imperial, Loughborough |	[RDM workflows and integrations (Arkivum, research data spring)](https://figshare.com/articles/RDM_workflows_and_integrations_for_HEIs_using_hosted_services/1476832)
 | --- | ---------|
-|LSHTM |	http://www.emeraldinsight.com/doi/full/10.1108/PROG-01-2015-0011 |
+|LSHTM |	[Building a research data management service for the London school of hygiene & tropical medicine](http://www.emeraldinsight.com/doi/full/10.1108/PROG-01-2015-0011) |
 | --- | ---------|
-|Oxford |	http://libereurope.eu/wp-content/uploads/2014/06/LIBER-Case-Study-UOX.pdf |
+|Oxford |	[LIBER Case Study, Oxford](http://libereurope.eu/wp-content/uploads/2014/06/LIBER-Case-Study-UOX.pdf) |
 | --- | ---------|
 |UCL |	[LERU Roadmap](http://www.leru.org/files/publications/AP14_LERU_Roadmap_for_Research_data_final.pdf) and [LIBER UCL case study](http://libereurope.eu/wp-content/uploads/2014/06/LIBER-Case-Study-UCL.pdf) |
 | --- | ---------|
