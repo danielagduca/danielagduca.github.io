@@ -10,10 +10,9 @@ header:
 toc: true
 ---  
 
+Text mining techniques have become critical for social scientists working with large scale social data, be it Twitter collections to track polarization, party documents to understand opinions and ideology, or news corpora to study the spread of misinformation.
 
 ## Overview
-
-Text mining techniques have become critical for social scientists working with large scale social data, be it Twitter collections to track polarization, party documents to understand opinions and ideology, or news corpora to study the spread of misinformation.
 
 Researchers and developers within the public and private sectors have been making strides in this space, and especially so in the past year. The improvements to the [representation of text with models like BERT from Google and the OpenAI’s GPT are the talk of the town](https://www.quantamagazine.org/machines-beat-humans-on-a-reading-test-but-do-they-understand-20191017) in computational linguistics since [they beat a benchmark for natural language understanding faster than predicted](https://openreview.net/pdf?id=rJ4km2R5t7). 
 
