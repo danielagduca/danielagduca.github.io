@@ -7,6 +7,7 @@ tags:
  - art
  - artist
  - research data
+ - university research
 header:
   teaser: https://live.staticflickr.com/300/32659680400_a3b7f341d6_b.jpg
 toc: true
