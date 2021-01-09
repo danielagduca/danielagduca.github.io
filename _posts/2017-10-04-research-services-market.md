@@ -34,64 +34,42 @@ It is worth mentioning that beside the interviews, we have also looked at publis
 | --- | ---------|
 |Bristol |	http://www.emeraldinsight.com/doi/abs/10.1108/PROG-02-2015-0019 |
 | --- | ---------|
-|Southampton |	RDM workflows and integrations (Arkivum, research data spring): https://figshare.com/articles/RDM_workflows_and_integrations_for_HEIs_using_hosted_services/1476832
-|Imperial | 
-|Loughborough |
+|Southampton, Imperial, Loughborough |	[RDM workflows and integrations (Arkivum, research data spring)](https://figshare.com/articles/RDM_workflows_and_integrations_for_HEIs_using_hosted_services/1476832)
 | --- | ---------|
-|LSHTM |	http://www.emeraldinsight.com/doi/full/10.1108/PROG-01-2015-0011
+|LSHTM |	http://www.emeraldinsight.com/doi/full/10.1108/PROG-01-2015-0011 |
 | --- | ---------|
-|Oxford |	http://libereurope.eu/wp-content/uploads/2014/06/LIBER-Case-Study-UOX.pdf
+|Oxford |	http://libereurope.eu/wp-content/uploads/2014/06/LIBER-Case-Study-UOX.pdf |
 | --- | ---------|
-|UCL |	http://www.leru.org/files/publications/AP14_LERU_Roadmap_for_Research_data_final.pdf
-
-http://libereurope.eu/wp-content/uploads/2014/06/LIBER-Case-Study-UCL.pdf |
+|UCL |	[LERU Roadmap](http://www.leru.org/files/publications/AP14_LERU_Roadmap_for_Research_data_final.pdf) and [LIBER UCL case study](http://libereurope.eu/wp-content/uploads/2014/06/LIBER-Case-Study-UCL.pdf) |
 | --- | ---------|
-|UEL |	http://www.dcc.ac.uk/resources/developing-rdm-services/using-eprints-build-repository-uel 
-
-Directions for Research Data Management in UK Universities, 2014
-
-http://repository.jisc.ac.uk/6062/5/Jisc-DCC-EPSRC_CASE_STUDY-UEL.pdf |
+|UEL |	[DCC Using ePrints case study](http://www.dcc.ac.uk/resources/developing-rdm-services/using-eprints-build-repository-uel) and [Directions for Research Data Management in UK Universities, 2014](http://repository.jisc.ac.uk/6062/5/Jisc-DCC-EPSRC_CASE_STUDY-UEL.pdf) |
 | --- | ---------|
-|Leeds |	http://library.leeds.ac.uk/downloads/file/536/roadmap_final_report
-
-Directions for Research Data Management in UK Universities, 2014
-
-http://repository.jisc.ac.uk/6062/3/Jisc-DCC-EPSRC_CASE_STUDY-Leeds.pdf |
+|Leeds|	[Leeds roadmap report](http://library.leeds.ac.uk/downloads/file/536/roadmap_final_report) and [Directions for Research Data Management in UK Universities, 2014](http://repository.jisc.ac.uk/6062/3/Jisc-DCC-EPSRC_CASE_STUDY-Leeds.pdf) |
 | --- | ---------|
-|York |	Filling in the digital preservation gap: https://figshare.com/articles/Filling_the_Digital_Preservation_Gap_A_Jisc_Research_Data_Spring_project_Phase_Two_report_February_2016/2073220 |
-|Hull |
+|York, Hull |	[Filling in the digital preservation gap](https://figshare.com/articles/Filling_the_Digital_Preservation_Gap_A_Jisc_Research_Data_Spring_project_Phase_Two_report_February_2016/2073220) |
 | --- | ---------|
-|Lincoln |	https://orbital.blogs.lincoln.ac.uk/2012/09/06/choosing-ckan-for-research-data-management/ |
+|Lincoln |	[Chosing CKAN for research data management](https://orbital.blogs.lincoln.ac.uk/2012/09/06/choosing-ckan-for-research-data-management/) |
 | --- | ---------|
-|UWE |	http://www2.uwe.ac.uk/services/library/using_the_library/Services%20for%20researchers/eprints-data-repository-uwe.pdf |
+|UWE |	[Eprints as the data repository](http://www2.uwe.ac.uk/services/library/using_the_library/Services%20for%20researchers/eprints-data-repository-uwe.pdf) |
 | --- | ---------|
-|Edinburgh |	Directions for Research Data Management in UK Universities, 2014
-
-http://repository.jisc.ac.uk/6062/2/Jisc-DCC-EPSRC_CASE_STUDY-Edinburgh.pdf |
+|Edinburgh |	[Directions for Research Data Management in UK Universities, 2014](http://repository.jisc.ac.uk/6062/2/Jisc-DCC-EPSRC_CASE_STUDY-Edinburgh.pdf) |
 | --- | ---------|
-|St Andrews |	Directions for Research Data Management in UK Universities, 2014
-
-http://repository.jisc.ac.uk/6062/4/Jisc-DCC-EPSRC_CASE_STUDY-St_Andrews.pdf |
+|St Andrews |	[Directions for Research Data Management in UK Universities, 2014](http://repository.jisc.ac.uk/6062/4/Jisc-DCC-EPSRC_CASE_STUDY-St_Andrews.pdf) |
 | --- | ---------|
-|Leeds Trinity |	https://figshare.com/articles/A_consortial_approach_to_RDMS_Case_study_Leeds_Trinity_University_A_streamlined_commercial_option_Pure_Elsevier_/1478780 |
+|Leeds Trinity |	[A streamlines commercial option with Pure from Elsevier](https://figshare.com/articles/A_consortial_approach_to_RDMS_Case_study_Leeds_Trinity_University_A_streamlined_commercial_option_Pure_Elsevier_/1478780) |
 | --- | ---------|
 
 ****
  
 | **Institution (non-UK)** |	**References** |
 | --- | ---------|
-|ETH-Zurich (Switzerland) |	Research Data Services at ETH-Bibliothek
-
-http://www.ifla.org/files/assets/hq/publications/ifla-journal/ifla-journal-42-4_2016.pdf |
-
+|ETH-Zurich (Switzerland) |	[Research Data Services at ETH-Bibliothek](http://www.ifla.org/files/assets/hq/publications/ifla-journal/ifla-journal-42-4_2016.pdf) |
+| --- | ---------|
+|Linaeus and Lund (Sweden) |	[Research data services: An exploration of requirements at two Swedish universities](http://www.ifla.org/files/assets/hq/publications/ifla-journal/ifla-journal-42-4_2016.pdf) |
 | --- | ---------|
 
-|Linaeus and Lund (Sweden) |	Research data services: An exploration of requirements at two Swedish universities
 
-http://www.ifla.org/files/assets/hq/publications/ifla-journal/ifla-journal-42-4_2016.pdf
-Next steps |
-| --- | ---------|
-
+## Next steps 
 As we progress through the alpha and beta stages of the research data shared service and we define the features and costs more clearly, we aim to iteratively test and improve these with the pilot institutions and other institutions in the UK and outside. We are also working on accessible service descriptions tailored to research support and higher level administrative functions (so watch this space).
 
 We are working on two other projects that rely on similar sectoral and institutional data: the UK research data discover service and the tiered storage. We have decided to run a joint phase of in-depth interviews that will be designed to test these services and refine the charging models. If you are interested in signing up to any of these future services, do get in touch with me, as now would be the perfect time to get involved.
