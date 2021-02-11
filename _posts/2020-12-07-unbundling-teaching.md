@@ -13,6 +13,7 @@ header:
   teaser: /docs/posts_images/unbundling_teaching.png
 toc: true
 ---
+> This post originally appeared on [SAGE Ocean](https://ocean.sagepub.com/blog/)
 
 This year’s lockdown challenged the absolute core of higher education and accelerated or [rather imposed the adoption of digital tooling](https://er.educause.edu/articles/2020/3/the-difference-between-emergency-remote-teaching-and-online-learning) to fully replace the interactivity of the physical classroom. And while other industries might have suffered losses, the edtech space flourished, with [funding for edtech almost doubling in the first half of 2020 vs 2019](https://news.crunchbase.com/news/back-to-school-edtech-vc-funding-reaches-4-1b-so-far-this-year/). Even before the pandemic, lecturers were starting to feel overwhelmed by the amount of choice to support their teaching. More funding just meant more hype, more tools, and more tools working on similar or slightly improved solutions, making it even harder and more time-consuming to find and adapt them in a rush. 
 
