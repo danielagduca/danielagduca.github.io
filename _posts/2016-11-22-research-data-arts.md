@@ -27,7 +27,7 @@ The definition of research data in the creative and performing arts is a never-e
 
 So why else would you want to even think about recording your creative process and all the stuff that comes with it? This gets be thinking about the famous and probably only American abstract painter at that time Jackson Pollock. A lot of the photographs of Jackson Pollock and his drip painting process became as renowned as the paintings themselves. Nowadays, online shopping platforms like [artfinder.com](http://artfinder.com/) encourage photos of ‘work in progress’ and ‘artist in studio’, claiming an increase in sales.
 
-    > If you are interested in the subject and would like to engage in this debate with experts like Nicola Siminson from the Glasgow School of Art, come along to the Research Data Network event in St Andrews on the 30th of November (free to attend) and look out for the session “I am not a scientist, I don’t have any research data”.
+
 
 ## Infrastructure
 
