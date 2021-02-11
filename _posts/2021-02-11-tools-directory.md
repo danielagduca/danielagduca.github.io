@@ -9,7 +9,7 @@ tags:
  - tools
  - startups
 header:
-  teaser: https://live.staticflickr.com/574/21667276289_cce17a2879_b.jpg
+  teaser: https://sagepublishing.github.io/sage_tools_social_science/data/images/tools_by_structure.png
 toc: true
 ---
 > This post originally appeared on [FORRT's Educators Corner](https://forrt.org/educators-corner/003-developing-tools/)
