@@ -35,7 +35,7 @@ gallery:
     image_path: /docs/paintings/digital/floating-18-04-2020.png
     alt: "Floating, 2020"
     title: "Floating, 2020"
-- url: /docs/paintings/digital/commute0-05-11-2019.png
+  - url: /docs/paintings/digital/commute0-05-11-2019.png
     image_path: /docs/paintings/digital/commute0-05-11-2019.png
     alt: "Commute, 0, 2019"
     title: "Commute, 0, 2019" 
