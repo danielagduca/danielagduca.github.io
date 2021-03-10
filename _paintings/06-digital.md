@@ -31,7 +31,11 @@ gallery:
     image_path: /docs/paintings/digital/commute01-18-10-2019.png
     alt: "Commute, 01, 2019"
     title: "Commute, 01, 2019"  
-  - url: /docs/paintings/digital/commute0-05-11-2019.png
+  - url: /docs/paintings/digital/floating-18-04-2020.png
+    image_path: /docs/paintings/digital/floating-18-04-2020.png
+    alt: "Floating, 2020"
+    title: "Floating, 2020"
+- url: /docs/paintings/digital/commute0-05-11-2019.png
     image_path: /docs/paintings/digital/commute0-05-11-2019.png
     alt: "Commute, 0, 2019"
     title: "Commute, 0, 2019" 
@@ -39,10 +43,6 @@ gallery:
     image_path: /docs/paintings/digital/home-2021.png
     alt: "Home, no commute, 2021"
     title: "Home, no commute, 2021"
-  - url: /docs/paintings/digital/floating-18-04-2020.png
-    image_path: /docs/paintings/digital/floating-18-04-2020.png
-    alt: "Floating, 2020"
-    title: "Floating, 2020"
   - url: /docs/paintings/digital/office1-06-02-2021.png
     image_path: /docs/paintings/digital/office1-06-02-2021.png
     alt: "Office, 1, 2021"
@@ -52,8 +52,8 @@ gallery2:
     image_path: /docs/paintings/digital/at-madrid-national-museum.png
     alt: "At the Madrid National Museum"
     title: "At the Madrid National Museum"
-  - url: /docs/paintings/digital/at-national-gallery.png
-    image_path: /docs/paintings/digital/at-national-gallery.png
+  - url: /docs/paintings/digital/at-national-gallery.jpg
+    image_path: /docs/paintings/digital/at-national-gallery.jpg
     alt: "At the National Gallery in London"
     title: "At the National Gallery in London"
   - url: /docs/paintings/digital/commodification-18-04-2020.png
