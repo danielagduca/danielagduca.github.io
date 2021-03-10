@@ -51,7 +51,7 @@ gallery:
 gallery2:
   - url: /docs/paintings/abstract/in_church_90x35cm2015.jpg
     image_path: /docs/paintings/abstract/in_church_90x35cm2015.jpg
-    alt: "In church"
+    alt: "In church, sold"
     title: "In church, 90x35cm, 2015, sold"
   - url: /docs/paintings/abstract/spiral_illusion_90x35cm2016.jpg
     image_path: /docs/paintings/abstract/spiral_illusion_90x35cm2016.jpg
@@ -59,19 +59,19 @@ gallery2:
     title: "Spiral illusion, 90x35cm, 2016"
   - url: /docs/paintings/abstract/the_touch_2_30x80cm2015.jpg
     image_path: /docs/paintings/abstract/the_touch_2_30x80cm2015.jpg
-    alt: "The touch"
-    title: "The touch, 30x80cm, 2015"
+    alt: "The touch, sold"
+    title: "The touch, 30x80cm, 2015, sold"
   - url: /docs/paintings/abstract/the_touch_3_30x80cm2015.jpg
     image_path: /docs/paintings/abstract/the_touch_3_30x80cm2015.jpg
-    alt: "The touch #3"
-    title: "The touch #3, 30x80cm, 2015"
+    alt: "The touch #3, sold"
+    title: "The touch #3, 30x80cm, 2015, sold"
   - url: /docs/paintings/abstract/the_touch_grey_1_30x80cm2015.jpg
     image_path: /docs/paintings/abstract/the_touch_grey_1_30x80cm2015.jpg
-    alt: "The touch #grey #1"
+    alt: "The touch #grey #1, sold"
     title: "The touch #grey #1, 30x80cm, 2015, sold"
   - url: /docs/paintings/abstract/the_touch_grey_2_30x80cm2015.jpg
     image_path: /docs/paintings/abstract/the_touch_grey_2_30x80cm2015.jpg
-    alt: "he touch #grey #2"
+    alt: "he touch #grey #2, sold"
     title: "he touch #grey #2, 30x80cm, 2015, sold"
 gallery3:
   - url: /docs/paintings/abstract/wuthering_heights_me.jpeg
@@ -84,7 +84,7 @@ gallery3:
     title: "Arabesque, 50x80cm, 2015"
   - url: /docs/paintings/abstract/artist_desk_60x90cm2015.jpg
     image_path: /docs/paintings/abstract/artist_desk_60x90cm2015.jpg
-    alt: "Artist's desk"
+    alt: "Artist's desk, sold"
     title: "Artist's desk, 60x90cm, 2015, sold"  
   - url: /docs/paintings/abstract/explosion_100x40cm_2014.jpg
     image_path: /docs/paintings/abstract/explosion_100x40cm_2014.jpg

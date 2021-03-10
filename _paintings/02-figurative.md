@@ -30,10 +30,6 @@ gallery:
     image_path: /docs/paintings/figurative/the_three_muses_60x60cm2017.jpg
     alt: "The three muses"
     title: "The three muses, 60x60cm, 2017" 
-  - url: /docs/paintings/figurative/lady_in_red_50x60cm_2012.jpg
-    image_path: /docs/paintings/figurative/lady_in_red_50x60cm_2012.jpg
-    alt: "Lady in red"
-    title: "Lady in red, 50x60cm, 2017"
   - url: /docs/paintings/figurative/runway_120x40cm2016.jpg
     image_path: /docs/paintings/figurative/runway_120x40cm2016.jpg
     alt: "Runway"
@@ -47,6 +43,10 @@ gallery2:
     image_path: /docs/paintings/figurative/rushing_to_the_ball_25x25cm2017_process.jpg
     alt: "Rushing to the ball, unfinished"
     title: "Rushing to the ball, unfinished, 25x25cm, 2017"  
+  - url: /docs/paintings/figurative/lady_in_red_50x60cm_2012.jpg
+    image_path: /docs/paintings/figurative/lady_in_red_50x60cm_2012.jpg
+    alt: "Lady in red"
+    title: "Lady in red, 50x60cm, 2017"
 gallery3:
   - url: /docs/paintings/figurative/amedeoswomen_30x80cm2018.jpg
     image_path: /docs/paintings/figurative/amedeoswomen_30x80cm2018.jpg
