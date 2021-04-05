@@ -86,14 +86,14 @@ DANS - DataVerse and EASY recently partnered with Dryad
 
 Ex-Libris Esploro: pilots: University of Iowa, Lancaster University, University of Miami, University of Oklahoma, University of Sheffield
 **Strengths**: 2 universities in the UK including Lancaster, UCL has Ex-Libris Primo, end-to-end research service 
-**Weaknesses**: just starting to work on this, may not be ready in time
+**Weaknesses**: as of 2018, it was work in progress
 
 Figshare with partner*
 **Strengths**: analytics, user experience, user support, storage bundles, large files, researchers like Figshare 
-**Weaknesses**: will have link or expect UCL to upload twice to fighare and preservation, will not have case studies for repo+preservation
+**Weaknesses**: will have link or expect faculty to upload twice to fighare and preservation, very few examples for repo+preservation
 
 Mendeley Data (Elsevier) with partner*
-**Strengths**: integrated with Pure (but UCL doesn't need it), may be developing a preservation system??
+**Strengths**: integrated with Pure, may be developing a preservation system??
 **Weaknesses**: may not be able to work with Ex-Libris (competitors) or Symplectic Elements
 
 *Best partner: preservica 
