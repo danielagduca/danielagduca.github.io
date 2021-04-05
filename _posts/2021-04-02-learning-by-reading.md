@@ -3,7 +3,7 @@ title: "Why learning from digital texts is still a challenge?"
 categories:
  - Tools & Technology
 tags:
- - social science
+ - reading
  - teaching
  - software
  - tools
