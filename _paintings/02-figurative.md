@@ -30,6 +30,10 @@ gallery:
     image_path: /docs/paintings/figurative/the_three_muses_60x60cm2017.jpg
     alt: "The three muses"
     title: "The three muses, 60x60cm, 2017" 
+  - url: /docs/paintings/figurative/miss_lemon_35x90cm2021.jpg
+    image_path: /docs/paintings/figurative/miss_lemon_35x90cm2021.jpg
+    alt: "Miss Lemon, sold"
+    title: "Miss Lemon, 35x90cm, 2021, sold" 
   - url: /docs/paintings/figurative/runway_120x40cm2016.jpg
     image_path: /docs/paintings/figurative/runway_120x40cm2016.jpg
     alt: "Runway"
@@ -50,8 +54,8 @@ gallery2:
 gallery3:
   - url: /docs/paintings/figurative/amedeoswomen_30x80cm2018.jpg
     image_path: /docs/paintings/figurative/amedeoswomen_30x80cm2018.jpg
-    alt: "Amedeos Women"
-    title: "Amedeos Women, 30x80cm, 2018"
+    alt: "Amedeos Women, sold"
+    title: "Amedeos Women, 30x80cm, 2018, sold"
   - url: /docs/paintings/figurative/amedeoswomen_30x80cm2018_sunlight.jpeg
     image_path: /docs/paintings/figurative/amedeoswomen_30x80cm2018_sunlight.jpeg
     alt: "Amedeos Women with sunlight"
@@ -78,11 +82,11 @@ This series of paintings is an exploration of the world of social media and the 
 
 {% include gallery caption="Figurative work, 2016-2019, exhibited at Elizabeth James Art Gallery for **Figuratively Speaking** in 2018" %}
 
-The paintings from this series that were sold or gifted.
+A few other paintings from this series that were sold or gifted.
 
 {% include gallery id="gallery2" caption="Sold out, figurative work, 2016-2019, exhibited at Elizabeth James Art Gallery for **Figuratively Speaking** in 2018" %}
 
-And here's the latest figurative, inspired by Amedeo Modigliani.
+And here are a few pictures showing the progress on a painting inspired by Amedeo Modigliani. Sold!
 
 {% include gallery id="gallery3" caption="Progress and lights for Amedeos Women, 2018" %}
 
