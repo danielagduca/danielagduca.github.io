@@ -28,8 +28,8 @@ gallery:
 gallery2:
   - url: /docs/paintings/trees/tree_of_the_brave_25x25cm2016_detail.jpg
     image_path: /docs/paintings/trees/tree_of_the_brave_25x25cm2016_detail.jpg
-    alt: "Tree of Life"
-    title: "Tree of Life, 25x30cm, 2015"
+    alt: "Tree of Life,"
+    title: "Tree of Life, 25x30cm, 2015,"
   - url: /docs/paintings/trees/tree_of_love_25x25cm2016_detail.jpg
     image_path: /docs/paintings/trees/tree_of_love_25x25cm2016_detail.jpg
     alt: "Tree of Love"
@@ -37,20 +37,20 @@ gallery2:
 gallery3:
   - url: /docs/paintings/trees/tree_of_life_25x30cm2015.jpg
     image_path: /docs/paintings/trees/tree_of_life_25x30cm2015.jpg
-    alt: "Tree of Life"
-    title: "Tree of Life, 25x30cm, 2015"
+    alt: "Tree of Life, sold"
+    title: "Tree of Life, 25x30cm, 2015, sold"
   - url: /docs/paintings/trees/london_rain_30x25cm2016.jpeg
     image_path: /docs/paintings/trees/london_rain_30x25cm2016.jpeg
-    alt: "London Rain"
-    title: "London Rain, sold, 30x25cm, 2016"
+    alt: "London Rain, sold"
+    title: "London Rain, 30x25cm, 2016, sold"
   - url: /docs/paintings/trees/tree_of_the_brave_25x25cm2016.jpg
     image_path: /docs/paintings/trees/tree_of_the_brave_25x25cm2016.jpg
-    alt: "Tree of the brave"
-    title: "Tree of the brave, sold, 25x25cm, 2016"
+    alt: "Tree of the brave, sold"
+    title: "Tree of the brave, 25x25cm, 2016, sold"
   - url: /docs/paintings/trees/fools_garden_lemon_tree_60x50cm2016.jpg
     image_path: /docs/paintings/trees/fools_garden_lemon_tree_60x50cm2016.jpg
-    alt: "Fool's Garged Lemon Tree"
-    title: "Fool's Garged Lemon Tree, 60x50cm, 2016"
+    alt: "Fool's Garged Lemon Tree, sold"
+    title: "Fool's Garged Lemon Tree, 60x50cm, 2016, sold"
 ---
 
 The series of trees was born out of an experiment with color and paste. It is an extension of my crazy yellow theory.

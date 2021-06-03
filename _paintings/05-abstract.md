@@ -22,8 +22,8 @@ gallery:
     title: "How to paint yellow noise, 20x20cm, 2015"
   - url: /docs/paintings/abstract/let_the_sunshine_in_2_30x30cm_2018.jpg
     image_path: /docs/paintings/abstract/let_the_sunshine_in_2_30x30cm_2018.jpg
-    alt: "Let the sunshine in #2"
-    title: "Let the sunshine in #2, 30x30cm, 2018"   
+    alt: "Let the sunshine in #2, sold"
+    title: "Let the sunshine in #2, 30x30cm, 2018, sold"   
   - url: /docs/paintings/abstract/let_the_sunshine_in_25x25cm2016.jpg
     image_path: /docs/paintings/abstract/let_the_sunshine_in_25x25cm2016.jpg
     alt: "Let the sunshine in"
@@ -46,7 +46,7 @@ gallery:
     title: "Just happy, 60x50cm, 2016"
   - url: /docs/paintings/abstract/my_spine_40x50cm2015.jpg
     image_path: /docs/paintings/abstract/my_spine_40x50cm2015.jpg
-    alt: "My spine"
+    alt: "My spine, sold"
     title: "My spine, 50x50cm, 2018, sold"  
 gallery2:
   - url: /docs/paintings/abstract/in_church_90x35cm2015.jpg
