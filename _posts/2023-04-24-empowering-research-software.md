@@ -1,5 +1,5 @@
 ---
-title: "Empowering Research Software"
+title: "Empowering research software"
 categories:
  - Tools & Technology
 tags:
@@ -8,7 +8,7 @@ tags:
  - tools
  - startups
 header:
-  teaser: 
+  teaser: https://live.staticflickr.com/65535/51735964260_d3554f7fe7_k.jpg
 toc: true
 ---
 
@@ -30,7 +30,7 @@ Traditionally, funding has been available for the initial stages of software dev
 
 ---
 ### More about Sage Concept Grants
-
+-
 – Started in 2018 with 21 applicants, now over 100  
 – Two types of grants: Five seed grants of £2,000 for ideas, and £15,000 for teams that have a prototype and would like to scale it  
 – Applicants from over 40 countries, and unlike research funding organizations, Sage doesn’t have a limit on territory  
