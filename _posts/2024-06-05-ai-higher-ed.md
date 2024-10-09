@@ -9,7 +9,7 @@ tags:
  - tools
  - startups
 header:
-  teaser: https://unsplash.com/photos/high-angle-photography-of-group-of-people-sitting-at-chairs-3aVlWP-7bg8
+  teaser: https://live.staticflickr.com/3474/3961578669_3fd204c674_b.jpg
 toc: true
 ---
 
