@@ -52,7 +52,7 @@ An open source approach aligns well with the ethos of universities and potential
 
 However, it’s not simply security concerns and technical integration hindering enterprise adoption of generative AI in higher education. It’s also about familiarity. We haven’t quite figured out the best way to use genAI at the institutional level, given its inherent limitations.
 
-### What’s the point of GenAIs for universities?
+## What’s the point of GenAIs for universities?
 
 A recent poll conducted on Sage’s Research Methods Community (Fig.1) reveals that 57% of social science researchers and faculty have not yet used generative AI, while another 13% are interested but haven’t taken the plunge. Only 12% report extensive use. This mirrors findings from other institutions: at the [University of Baltimore](https://drive.google.com/file/d/1ufdagea0Xm8TpiKsyvbr1Kp-kpez3z6Z/view), faculty are primarily experimenting out of curiosity, and at the [Michigan Institute for Data Science](https://assets.pubpub.org/9evdl9pm/Liu%2520&%2520Jagadish%2520(2024)_Just%2520Accepted-71708981791796.pdf), 70% of 92 faculty lack practical experience. Conversely, a [survey 6,311 of German students](https://www.nature.com/articles/s41599-023-02304-7) shows that 63.4% have used AI tools for academic purposes.
 
@@ -72,7 +72,7 @@ In courseware development, [Acrobatiq’s AI-generated content has shown promise
 
 The potential of generative AI in education is tantalising, but current research still offers mixed results. We lack longitudinal studies, and the rapid pace of technological change renders many findings out of date. To truly understand its impact, we need [more in-classroom experiments](https://blogs.lse.ac.uk/impactofsocialsciences/2024/05/22/to-improve-their-courses-educators-should-respond-to-how-students-actually-use-ai/). EdTech tools are uniquely positioned to gather this crucial data, but collaboration between researchers and EdTech companies is key.
 
-### A silver lining?
+## A silver lining?
 
 Education non-profits are [leading AI adoption](https://projectevident.org/wp-content/uploads/2024/02/Inspiring-Action-HAIPE-AI-report.pdf), with [higher education institutions gaining trust for responsible AI use](https://www.insidehighered.com/news/quick-takes/2024/04/09/report-higher-education-most-trusted-source-handle-ai#:~:text=While%2520the%2520public%2520remains%2520cautious,business%2520intelligence%2520group%2520Morning%2520Consult.). Collaborative initiatives like [CANGARU](https://www.science.org/content/article/should-researchers-use-ai-write-papers-group-aims-community-driven-standards), [institutional AI initiatives](https://www.princeton.edu/news/2024/03/18/ai-princeton-pushing-limits-accelerating-discovery-and-serving-humanity), and reports from [Coalition for Networked Information & Association of Research Libraries](https://www.cni.org/pbs/the-arl-cni-task-force-on-ai-futures-scenarios-for-the-research-enterprise-and-research-libraries), and [Ontario Council of University Libraries](https://ocul.on.ca/sites/default/files/20240305_OCUL-TFMLAI_InterimReport.pdf) highlight proactive efforts. Ithaka S+R’s [19-university task force](https://sr.ithaka.org/blog/making-ai-generative-for-higher-education-2/) and [EDUCAUSE’s collaboration with AWS](https://library.educause.edu/resources/2024/4/higher-education-generative-ai-readiness-assessment) further demonstrate the sector’s commitment to understanding and responsibly integrating AI.
 
