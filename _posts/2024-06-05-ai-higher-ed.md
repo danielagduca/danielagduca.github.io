@@ -1,4 +1,18 @@
-# Universities need more than off-the-shelf AI solutions 
+---
+title: "Universities need more than off-the-shelf AI solutions"
+categories:
+ - Tools & Technology
+tags:
+ - higher education
+ - artificial intelligence
+ - software
+ - tools
+ - startups
+header:
+  teaser: https://unsplash.com/photos/high-angle-photography-of-group-of-people-sitting-at-chairs-3aVlWP-7bg8
+toc: true
+---
+
 
 This post was originally published on the [LSE Impact Blog](https://blogs.lse.ac.uk/impactofsocialsciences/2024/06/05/universities-need-more-than-off-the-shelf-ai-solutions/).
 
