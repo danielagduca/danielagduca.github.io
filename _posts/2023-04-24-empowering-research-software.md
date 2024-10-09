@@ -12,7 +12,8 @@ header:
 toc: true
 ---
 
-This blog was originally published in [Social Science Space](https://www.socialsciencespace.com/2023/04/empowering-research-software/)
+This blog was originally published in [Social Science Space](https://www.socialsciencespace.com/2023/04/empowering-research-software/).
+
 > ## Excerpt
 > The paradox of research software lies in the tension between the promotion of software as a scholarly output and the reality of software as a product that needs to be sustained beyond its publication.
 
